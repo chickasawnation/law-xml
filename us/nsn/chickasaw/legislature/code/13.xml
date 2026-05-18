@@ -657,10 +657,10 @@
             <num>2.</num>
             <text>Reasonable efforts shall be made to determine whether the Person has a current and unrevoked advance directive executed pursuant to the Advance Directives for Mental Health Treatment Act of any state.</text>
           </para>
-          <para>
-            <num>F.</num>
-            <text>Unless otherwise ordered by the Court, or unless the Adult or the Parent(s) of the Minor voluntarily Consent to further Treatment, the Person shall be discharged at the end of the five (5) day detention period absent a Pre-Hearing Detention Order.</text>
-          </para>
+        </para>
+        <para>
+          <num>F.</num>
+          <text>Unless otherwise ordered by the Court, or unless the Adult or the Parent(s) of the Minor voluntarily Consent to further Treatment, the Person shall be discharged at the end of the five (5) day detention period absent a Pre-Hearing Detention Order.</text>
         </para>
       </section>
     </container>
@@ -1089,8 +1089,8 @@
             <num>2.</num>
             <text>enter an order of admission to a Mental Health Facility pursuant to the provisions of this Act, directing that the Adult be committed to Inpatient Treatment and, if the Adult refuses to comply with this order of Inpatient Treatment, the Court may direct an Officer to take the Adult into Protective Custody and transport the Adult to a Mental Health Facility.</text>
           </para>
+          <aftertext>The Court shall give notice to the Adult ordered to show cause and hold the hearing within seventy-two (72) hours of the notice. The Adult ordered to undergo a program of alternative Treatment shall not be detained in Emergency Detention pending the show cause hearing unless, prior to the Emergency Detention, the Adult has undergone an Initial Examination and a determination is made that the Emergency Detention is warranted.</aftertext>
         </para>
-        <text>The Court shall give notice to the Adult ordered to show cause and hold the hearing within seventy-two (72) hours of the notice. The Adult ordered to undergo a program of alternative Treatment shall not be detained in Emergency Detention pending the show cause hearing unless, prior to the Emergency Detention, the Adult has undergone an Initial Examination and a determination is made that the Emergency Detention is warranted.</text>
         <para>
           <num>D.</num>
           <text>If an order of alternative Treatment expires without further review by the Court and it is believed that the Adult continues to require Treatment, a person competent to file or request the filing of a petition, pursuant to <cite path="PROOF 13|7|A|13-701.11">Section 13-701.11</cite> of this title, may file or request the Prosecutor file either an application for an extension of the Court's previous order or an entirely new petition for a determination that the Adult is a Person Requiring Treatment.</text>

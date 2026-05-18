@@ -90,10 +90,10 @@
           <num>B.</num>
           <text>All persons authorized under this Section shall become members of the Chickasaw Bar Association and their names shall be added to the roll of attorneys for the Chickasaw Supreme Court upon paying an annual fifty dollar ($50) membership fee, and such other additional fees as the Supreme Court may assess, to the Clerk of the Court and taking and signing the following oath before the Clerk of the Court:</text>
           <text>"You do solemnly swear that you will support, protect and defend <cite doc="Chickasaw Nation Constitution">the Constitution</cite> of the United States and <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>; that you will do no falsehood or consent that any be done in court, and if you know of any you will give knowledge thereof to the Judges of the Court, or some one of them, that it may be reformed; you will not wittingly, willingly or knowingly promote, sue or procure to be sued, any false or unlawful suit, or give aid or consent to the same; you will delay no man for lucre or malice, but will act in the office of attorney in this Court according to your best learning and	discretion, with all good fidelity as well to the Court as to your client, so help you God."</text>
-          <para>
-            <num>C.</num>
-            <text>All fees collected from Chickasaw Bar Association members shall be held by the Supreme Court and managed and expended for the membership of the Chickasaw Bar Association."</text>
-          </para>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>All fees collected from Chickasaw Bar Association members shall be held by the Supreme Court and managed and expended for the membership of the Chickasaw Bar Association."</text>
         </para>
         <annotations>
           <annotation type="History" effective="2021-02-22" doc="PR38-014">PR38-014, 02/22/2021</annotation>
@@ -204,9 +204,8 @@
         </para>
         <para>
           <num>B.</num>
-          <text>An opinion or decision of the Court shall not be final until ten (10) days after the filing of an opinion or decision and mailing by regular mail a copy of the opinion or decision to</text>
+          <text>An opinion or decision of the Court shall not be final until ten (10) days after the filing of an opinion or decision and mailing by regular mail a copy of the opinion or decision to all parties or their attorney(s) of record. The Court Clerk shall mail a copy to all Interested Parties or their attorney(s) of record and file a proof of mailing thereof.</text>
         </para>
-        <aftertext>all parties or their attorney(s) of record. The Court Clerk shall mail a copy to all Interested Parties or their attorney(s) of record and file a proof of mailing thereof.</aftertext>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -779,51 +778,50 @@
         <para>
           <num>A.</num>
           <text>A Justice shall recuse himself and inform the parties or be subject to a motion for disqualification, if any of the following applies:</text>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>The Justice is interested in the case or the results thereof;</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>The Justice is related to any party;</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>The Justice has been counsel for either party;</text>
-        </para>
-        <para>
-          <num>4.</num>
-          <text>The case calls into question:</text>
           <para>
-            <num>a.</num>
-            <text>The validity of any judgment of the Justice;</text>
+            <num>1.</num>
+            <text>The Justice is interested in the case or the results thereof;</text>
           </para>
           <para>
-            <num>b.</num>
-            <text>A proceeding in which the Justice was counsel or was interested;</text>
-            <text>or</text>
+            <num>2.</num>
+            <text>The Justice is related to any party;</text>
           </para>
           <para>
-            <num>c.</num>
-            <text>The validity of any instrument or paper prepared or signed by a Justice as counsel or attorney;</text>
+            <num>3.</num>
+            <text>The Justice has been counsel for either party;</text>
           </para>
-        </para>
-        <para>
-          <num>5.</num>
-          <text>The Justice has personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;</text>
-        </para>
-        <para>
-          <num>6.</num>
-          <text>The Justice, individually or as a fiduciary, or spouse or minor child residing in a Justice's household, has a financial or other interest that could be substantially affected by the outcome;</text>
-        </para>
-        <para>
-          <num>7.</num>
-          <text>The Justice has publicly stated an opinion about the outcome of the facts of a case prior to hearing; or</text>
-        </para>
-        <para>
-          <num>8.</num>
-          <text>If the case is an appeal from the Domestic Violence Court or a criminal appeal from a felony conviction before the District Court and the Justice does not meet the qualifications required for the Judge of District Court.</text>
+          <para>
+            <num>4.</num>
+            <text>The case calls into question:</text>
+            <para>
+              <num>a.</num>
+              <text>The validity of any judgment of the Justice;</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>A proceeding in which the Justice was counsel or was interested; or</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>The validity of any instrument or paper prepared or signed by a Justice as counsel or attorney;</text>
+            </para>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The Justice has personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>The Justice, individually or as a fiduciary, or spouse or minor child residing in a Justice's household, has a financial or other interest that could be substantially affected by the outcome;</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>The Justice has publicly stated an opinion about the outcome of the facts of a case prior to hearing; or</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>If the case is an appeal from the Domestic Violence Court or a criminal appeal from a felony conviction before the District Court and the Justice does not meet the qualifications required for the Judge of District Court.</text>
+          </para>
         </para>
         <para>
           <num>B.</num>
@@ -2319,9 +2317,8 @@
         </para>
         <para>
           <num>B.</num>
-          <text>This Rule shall not preclude the District Court from acting concurrently with parole revocation proceedings in the exercise of its own jurisdiction nor shall it prevent a new</text>
+          <text>This Rule shall not preclude the District Court from acting concurrently with parole revocation proceedings in the exercise of its own jurisdiction nor shall it prevent a new petition from being brought on allegations identical to those on which parole is sought to be revoked.</text>
         </para>
-        <aftertext>petition from being brought on allegations identical to those on which parole is sought to be revoked.</aftertext>
         <annotations>
           <annotation type="History" effective="2003-11-21" doc="PR21-002">PR21-002, 11/21/03</annotation>
         </annotations>
@@ -2423,7 +2420,6 @@
           <num>B.</num>
           <text>The Prosecutor, and all assigned subordinate attorneys, are hereby empowered to: (1.) represent the Chickasaw Nation in the courts of the Chickasaw Nation with respect to the prosecution of any person accused of violating a criminal provision of the Chickasaw Nation Code or as otherwise may be necessary to carry out and enforce the Chickasaw Nation Deprived Children's Code and Delinquent Children's Code; and (2.) such other functions assigned to the role of "prosecutor" by the Chickasaw Nation Code or the policies and procedures of the Chickasaw Nation Executive Department.</text>
         </para>
-        <aftertext>(</aftertext>
         <annotations>
           <annotation type="History" effective="2003-11-21" doc="PR21-002">PR21-002, 11/21/03</annotation>
           <annotation type="History" effective="2021-05-24" doc="PR38-025">PR38-025, 5/24/2021</annotation>
@@ -2617,9 +2613,8 @@
         <heading>BOOKS AND RECORDS KEPT BY THE CLERK AND ENTRIES THEREIN.</heading>
         <para>
           <num>A.</num>
-          <text>The Clerk shall keep a book known as the "District Court Docket" of such form and style as may be prescribed by the District Court, and shall enter therein each action.</text>
+          <text>The Clerk shall keep a book known as the "District Court Docket" of such form and style as may be prescribed by the District Court, and shall enter therein each action. Actions shall be assigned consecutive file numbers. The file number of each action shall be noted on the folio of the docket whereupon the first entry of the action is made. All papers filed with the Clerk, all process issued and returns made thereon, all appearances, orders, verdicts, and judgments shall be entered chronologically in the civil docket on the folio assigned to the action and shall be marked with its file number. These entire dockets shall be brief but shall show the nature of each paper filed or writ issued and the substance of each order or judgment of the Court and of the returns showing execution of process. The entry of an order or judgment shall show the date the entry is made.</text>
         </para>
-        <text>Actions shall be assigned consecutive file numbers. The file number of each action shall be noted on the folio of the docket whereupon the first entry of the action is made. All papers filed with the Clerk, all process issued and returns made thereon, all appearances, orders, verdicts, and judgments shall be entered chronologically in the civil docket on the folio assigned to the action and shall be marked with its file number. These entire dockets shall be brief but shall show the nature of each paper filed or writ issued and the substance of each order or judgment of the Court and of the returns showing execution of process. The entry of an order or judgment shall show the date the entry is made.</text>
         <para>
           <num>B.</num>
           <text>In like fashion, the Clerk shall keep suitable dockets, indices, calendars, and judgment records for any other dockets of the District Court, and the appeals and original action docket of the Supreme Court. The appeals and original action dockets of the Supreme Court may be combined if the Supreme Court shall so direct.</text>
@@ -4581,9 +4576,8 @@
           <text>Determination by Order Whether Class Action to be Maintained; Notice; Judgment; Actions Conducted Partially as Class Actions.</text>
           <para>
             <num>1.</num>
-            <text>As soon as practicable after the commencement of an action brought as a class action, the Court shall determine by order whether it is to be so maintained. An</text>
+            <text>As soon as practicable after the commencement of an action brought as a class action, the Court shall determine by order whether it is to be so maintained. An order under this Paragraph 1 may be conditional, and may be altered or amended before the decision on the merits.</text>
           </para>
-          <text>order under this Paragraph 1 may be conditional, and may be altered or amended before the decision on the merits.</text>
           <para>
             <num>2.</num>
             <text>In any class action maintained under Paragraph B.3 above, the Court shall direct to the members of the class the best notice practicable under the circumstances, including individual members who can be identified through reasonable effort. The notice shall advise each member that:</text>
@@ -4974,8 +4968,9 @@
           <para>
             <num>2.</num>
             <text>Leave of court is not required for the taking of a deposition by plaintiff if the notice a) states that the person to be examined is about to go out of the Jurisdiction of the Chickasaw Nation, or is about to go out of the United States, or is bound on a voyage to sea, and will be unavailable for examination unless his deposition is taken before expiration of the thirty (30) day period; and b) sets forth facts to support the statement.</text>
+            <text>The plaintiff's attorney shall sign the notice, and his signature constitutes a certification by him that, to the best of his knowledge, information, and belief, the statement and supporting facts are true. The sanctions provided by Section 5-211.12 are applicable to the certification.</text>
+            <text>If a party shows that when he was served with notice under this Paragraph B.2 he was unable through the exercise of due diligence to obtain counsel to represent him at the taking of the deposition, the deposition may not be used against him.</text>
           </para>
-          <text>The plaintiff's attorney shall sign the notice, and his signature constitutes a certification by him that, to the best of his knowledge, information, and belief, the statement and supporting facts are true. The sanctions provided by <cite path="5|2|K|5-211.12">Section 5-211.12</cite> are applicable to the certification. If a party shows that when he was served with notice under this Paragraph B.2 he was unable through the exercise of due diligence to obtain counsel to represent him at the taking of the deposition, the deposition may not be used against him.</text>
           <para>
             <num>3.</num>
             <text>The Court may for cause shown enlarge or shorten the time for taking the deposition.</text>
@@ -5053,7 +5048,8 @@
           <num>A.</num>
           <heading>Serving Questions; Notice.</heading>
           <text>After commencement of the action, any party may take the testimony of any person, including a party, by deposition upon written questions. The attendance of witnesses may be compelled by the use of subpoena. The deposition of a person confined in prison may be taken only by Leave of court on such terms as the Court prescribes.</text>
-          <text>A party desiring to take a deposition upon written questions shall serve them upon every other party with a notice stating 1) the name and address of the person who is to answer them, if known, and if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs; and 2) the name or descriptive title and address of the officer before whom the deposition is to be taken. A deposition upon written questions may be taken of a public or private corporation or a partnership or association or governmental agency in accordance with the provisions of Paragraph 5-211.5.B.6. Within thirty (30) days after the notice and written questions are served, a party may serve	cross questions upon all other parties. Within ten (10) days after being served with cross questions, a party may serve redirect questions upon all other parties.  Within ten (10) days after being served with redirect questions, a party may serve re-cross questions upon all other parties. The Court may for cause shown enlarge or shorten the time.</text>
+          <text>A party desiring to take a deposition upon written questions shall serve them upon every other party with a notice stating 1) the name and address of the person who is to answer them, if known, and if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs; and 2) the name or descriptive title and address of the officer before whom the deposition is to be taken. A deposition upon written questions may be taken of a public or private corporation or a partnership or association or governmental agency in accordance with the provisions of Paragraph 5-211.5.B.6.</text>
+          <text>Within thirty (30) days after the notice and written questions are served, a party may serve	cross questions upon all other parties. Within ten (10) days after being served with cross questions, a party may serve redirect questions upon all other parties.  Within ten (10) days after being served with redirect questions, a party may serve re-cross questions upon all other parties. The Court may for cause shown enlarge or shorten the time.</text>
         </para>
         <para>
           <num>B.</num>
@@ -5164,8 +5160,8 @@
           <num>B.</num>
           <heading>Procedure.</heading>
           <text>The request may, without leave of court, be served upon the plaintiff after commencement of the action and upon any other party with or after service of the summons and complaint upon that party. The request shall set forth the items to be inspected either by individual item or by category, and describe each item and category with reasonable particularity. The request shall specify a reasonable time, place, and manner of making the inspection and performing the related acts.</text>
+          <text>The party upon whom the request is served shall serve a written response within thirty (30) days after the service of the request, except that a defendant may serve a response within forty five (45) days after service of the summons and complaint upon that defendant. The Court may allow a shorter or longer time. The response shall state, with respect to each item or category, that inspection and related activities will be permitted as requested, unless the request is objected to in which event the reasons for objection shall be stated. If objection is made to part of an item or category, the part shall be specified. The party submitting the request may move for an order under Sub<cite path="5|2|K|5-211.12">section 5-211.12</cite>.A with respect to any objection to or other failure to respond to the request or any part thereof, or any failure to permit inspection as requested.</text>
         </para>
-        <text>The party upon whom the request is served shall serve a written response within thirty (30) days after the service of the request, except that a defendant may serve a response within forty five (45) days after service of the summons and complaint upon that defendant. The Court may allow a shorter or longer time. The response shall state, with respect to each item or category, that inspection and related activities will be permitted as requested, unless the request is objected to in which event the reasons for objection shall be stated. If objection is made to part of an item or category, the part shall be specified. The party submitting the request may move for an order under <cite path="5|2|K|5-211.12|A.">Subsection 5-211.12.A</cite> with respect to any objection to or other failure to respond to the request or any part thereof, or any failure to permit inspection as requested.</text>
         <para>
           <num>C.</num>
           <heading>Persons Not Parties.</heading>
@@ -5372,9 +5368,8 @@
         </para>
         <para>
           <num>B.</num>
-          <text>The Court Clerk or one (1) of his deputies shall draw from the drum, after the same has been well turned so that the cards therein are thoroughly mixed, one (1) by one (1) until the number of names for jury service are procured. The Court Clerk shall maintain a list of the drawn names at all times in a</text>
+          <text>The Court Clerk or one (1) of his deputies shall draw from the drum, after the same has been well turned so that the cards therein are thoroughly mixed, one (1) by one (1) until the number of names for jury service are procured. The Court Clerk shall maintain a list of the drawn names at all times in a confidential manner. The persons attending such drawing shall not divulge the name of any person that may be drawn as a prospective juror to any person.</text>
         </para>
-        <text>confidential manner. The persons attending such drawing shall not divulge the name of any person that may be drawn as a prospective juror to any person.</text>
         <para>
           <num>C.</num>
           <text>The Court may order additional drawings of names for the completion of a jury, the impaneling of a new jury or otherwise if additional drawing(s) shall become necessary; however, such prospective jurors shall be available only as special jurors and shall be discharged as soon as their services are not further needed. The Court may excuse or discharge any person drawn and summoned as a juror, whenever such action shall be deemed expedient or in the best interest of the Court or the administration of justice.</text>
@@ -5967,9 +5962,8 @@
         <para>
           <num>C.</num>
           <heading>Powers.</heading>
-          <text>The order of reference to the Master may specify or limit his powers and may direct him to report only upon particular issues or to do or perform particular acts or to receive and report evidence only and may fix the time and place for beginning and closing the hearings and for the filing of the Master's report. Subject to the specifications and limitations stated in the order, the Master has and shall exercise the power to regulate all proceedings in every hearing before him and to do all acts and take all measures necessary or proper for the efficient performance of his duties under the order. He may require the production before him of evidence upon all matters embraced in the reference, including the production of all books, papers, vouchers, documents, and writings applicable thereto. He may rule upon the admissibility of evidence unless otherwise directed by the order or reference and has the authority to put witnesses on oath and may himself examine them, and may call the parties to the action and examine them upon oath. When a party so requests, the Master shall make a record of the</text>
+          <text>The order of reference to the Master may specify or limit his powers and may direct him to report only upon particular issues or to do or perform particular acts or to receive and report evidence only and may fix the time and place for beginning and closing the hearings and for the filing of the Master's report. Subject to the specifications and limitations stated in the order, the Master has and shall exercise the power to regulate all proceedings in every hearing before him and to do all acts and take all measures necessary or proper for the efficient performance of his duties under the order. He may require the production before him of evidence upon all matters embraced in the reference, including the production of all books, papers, vouchers, documents, and writings applicable thereto. He may rule upon the admissibility of evidence unless otherwise directed by the order or reference and has the authority to put witnesses on oath and may himself examine them, and may call the parties to the action and examine them upon oath. When a party so requests, the Master shall make a record of the evidence offered and excluded in the same manner and subject to the same limitations as provided for a Court sitting without a jury.</text>
         </para>
-        <text>evidence offered and excluded in the same manner and subject to the same limitations as provided for a Court sitting without a jury.</text>
         <para>
           <num>D.</num>
           <text>Proceedings.</text>
@@ -6805,9 +6799,8 @@
           <text>Any person or entity entitled to receive child support payments for the current or for any prior month or months, or such person's legal representative may initiate income assignment proceedings by filing with the court an application signed under oath specifying:</text>
           <para>
             <num>1.</num>
-            <text>that the obligor has failed to make child support payments required by a child support order in an amount equal to the child support payable for at least one (1)</text>
+            <text>that the obligor has failed to make child support payments required by a child support order in an amount equal to the child support payable for at least one (1) month;</text>
           </para>
-          <text>month;</text>
           <para>
             <num>2.</num>
             <text>a certified copy of the support order and all subsequent modifications or orders relating thereto;</text>
@@ -8079,9 +8072,8 @@
             <text>that the Judge presiding over the Criminal Proceeding:</text>
             <para>
               <num>a.</num>
-              <text>has sufficient legal training to preside over Criminal Proceeding;</text>
+              <text>has sufficient legal training to preside over Criminal Proceeding; and</text>
             </para>
-            <text>and</text>
             <para>
               <num>b.</num>
               <text>is licensed to practice law by any jurisdiction in the United States;</text>
@@ -10049,9 +10041,8 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Upon return of the verdict, the jury may be polled at the request of either party.</text>
+        <text>Upon return of the verdict, the jury may be polled at the request of either party. If upon the poll there is not unanimous concurrence, the jury may be directed to retire for further deliberation or may be discharged.</text>
       </para>
-      <text>If upon the poll there is not unanimous concurrence, the jury may be directed to retire for further deliberation or may be discharged.</text>
       <para>
         <num>E.</num>
         <text>After return of the verdict, the jury may, in the Judge's discretion, be requested to recommend the punishment to be imposed after a hearing at which both parties have the opportunity to present evidence in mitigation or aggravation of the sentence. The jury's recommendation in such cases shall not be binding on the Judge at sentencing.</text>
@@ -13651,9 +13642,8 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Domestic public documents not under seal. A document purporting to bear the signature in his official capacity of an officer or employee of any entity included in Paragraph 1 hereof, having no seal, if a public officer having a seal and having official</text>
+          <text>Domestic public documents not under seal. A document purporting to bear the signature in his official capacity of an officer or employee of any entity included in Paragraph 1 hereof, having no seal, if a public officer having a seal and having official duties in the district or political subdivision of the officer or employee certifies under seal that the signer has the official capacity and that the signature is genuine.</text>
         </para>
-        <text>duties in the district or political subdivision of the officer or employee certifies under seal that the signer has the official capacity and that the signature is genuine.</text>
         <para>
           <num>3.</num>
           <text>Foreign public documents. A document purporting to be executed or	attested in his official capacity by a person authorized by the laws of a foreign country to make the execution or attestation, and accompanied by a final certification as to the genuineness of the signature and official position:</text>
@@ -13665,8 +13655,8 @@
             <num>b.</num>
             <text>of any foreign official whose certificate of genuineness of signature and official position related to the execution or attestation or is a chain of certificates of genuineness of signature and official position relating to the execution or attestation.</text>
           </para>
+          <aftertext>A final certification may be made by a secretary of embassy or legation, consul, general consul, vice consul, or consular agent of the United States, or a diplomatic or consular official or the foreign country assigned or accredited to the United States. If reasonable opportunity has been given to all parties to investigate the authenticity and accuracy of official documents, the Court may, for good cause shown, order that they be treated as presumptively authentic without final certification or permit them to be evidenced by an attested summary with or without final certification.</aftertext>
         </para>
-        <text>A final certification may be made by a secretary of embassy or legation, consul, general consul, vice consul, or consular agent of the United States, or a diplomatic or consular official or the foreign country assigned or accredited to the United States. If reasonable opportunity has been given to all parties to investigate the authenticity and accuracy of official documents, the Court may, for good cause shown, order that they be treated as presumptively authentic without final certification or permit them to be evidenced by an attested summary with or without final certification.</text>
         <para>
           <num>4.</num>
           <text>Certified copies of public records. A copy of an official record or report or entry therein, or of a document authorized by law to be recorded or filed and actually recorded or filed in a public office, including data compilations in any form, certified as correct by the custodian or other person authorized to make the certification, by certificate complying with Paragraph 1, 2 or 3 of this Section or complying with any act of the Chickasaw Legislature or rule prescribed by the courts of the Chickasaw Nation pursuant to statutory authority.</text>
@@ -13723,7 +13713,7 @@
         <prefix>Section</prefix>
         <num>5-1310.1</num>
         <heading>DEFINITIONS.</heading>
-        <text class="center">For the purpose of <cite path="5|13|J">this Article J</cite>, the following definitions are applicable:</text>
+        <text>For the purpose of <cite path="5|13|J">this Article J</cite>, the following definitions are applicable:</text>
         <para>
           <num>1.</num>
           <text>Writings and Recordings. "Writings" and "Recordings" consist of letters, words, or numbers or their equivalent, set down by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or other form of data compilation.</text>
@@ -13758,12 +13748,11 @@
         <prefix>Section</prefix>
         <num>5-1310.3</num>
         <heading>ADMISSIBILITY OF DUPLICATES.</heading>
-        <text class="center">A Duplicate is admissible to the same extent as an Original unless:</text>
+        <text>A Duplicate is admissible to the same extent as an Original unless:</text>
         <para>
           <num>1.</num>
-          <text>a genuine question is raised as to the authenticity of the Original;</text>
+          <text>a genuine question is raised as to the authenticity of the Original; or</text>
         </para>
-        <text>or</text>
         <para>
           <num>2.</num>
           <text>in the circumstances it would be unfair to admit the Duplicate in lieu of the	Original.</text>

@@ -299,8 +299,7 @@
       <prefix>Section</prefix>
       <num>8-200.10</num>
       <heading>HEARING CHALLENGE, DECISION.</heading>
-      <text>A Candidate's eligibility dispute shall be heard by the Election Commission no later than seven (7) days after the challenged Candidate has been notified of the challenge. The decision of the Election Commission on the eligibility of the Candidate shall be final and in writing and</text>
-      <text>shall be made within seven (7) days after the challenged Candidate has been notified. The election date shall not be delayed.</text>
+      <text>A Candidate's eligibility dispute shall be heard by the Election Commission no later than seven (7) days after the challenged Candidate has been notified of the challenge. The decision of the Election Commission on the eligibility of the Candidate shall be final and in writing and shall be made within seven (7) days after the challenged Candidate has been notified. The election date shall not be delayed.</text>
       <annotations>
         <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
       </annotations>
@@ -919,14 +918,14 @@
       <para>
         <num>B.</num>
         <text>If insufficient time exists between the time the list is provided to the Election Secretary/Tribal Registrar and the date of the next session of the Legislature, then the Election Secretary/Tribal Registrar shall have five (5) working days in which to provide a list of those verified signatures to the Governor. If that period is after the regular session of the Legislature, then the Governor shall call a special session of the Legislature, in accordance with the procedures contained in <cite doc="Chickasaw Nation Constitution">the Constitution</cite>, to be held within five (5) working days of his receipt of the verified list of signatures:</text>
-      </para>
-      <para>
-        <num>1.</num>
-        <text>Should the list not contain the proper percentage of Voter signatures as provided for in <cite doc="Chickasaw Nation Constitution" path="XIV|§1">Article XIV, Section 1, of the Constitution</cite>, it shall be the responsibility of the Governor to so notify the Legislature and, through use of all available media, to also notify the public of the failure of the Initiative Petition;</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall so notify the Governor. The Governor shall then call a special session of the Legislature to be effected in the same time frame as provided in this subsection.</text>
+        <para>
+          <num>1.</num>
+          <text>Should the list not contain the proper percentage of Voter signatures as provided for in <cite doc="Chickasaw Nation Constitution" path="XIV|§1">Article XIV, Section 1, of the Constitution</cite>, it shall be the responsibility of the Governor to so notify the Legislature and, through use of all available media, to also notify the public of the failure of the Initiative Petition;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the petition contains the proper number of valid signatures as determined by the Election Secretary/Tribal Registrar, the Election Secretary/Tribal Registrar shall so notify the Governor. The Governor shall then call a special session of the Legislature to be effected in the same time frame as provided in this subsection.</text>
+        </para>
       </para>
       <para>
         <num>C.</num>

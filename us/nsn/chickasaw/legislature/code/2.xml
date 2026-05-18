@@ -80,11 +80,11 @@
           <num>8.</num>
           <text>Christmas Day.</text>
         </para>
-        <text>Other holidays may be declared by the Governor.</text>
-        <para>
-          <num>C.</num>
-          <text>The second Monday of October of each year shall continue to be an official holiday of the Chickasaw Nation which shall be designated "Piomingo Day".</text>
-        </para>
+        <aftertext>Other holidays may be declared by the Governor.</aftertext>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The second Monday of October of each year shall continue to be an official holiday of the Chickasaw Nation which shall be designated "Piomingo Day".</text>
       </para>
       <annotations>
         <annotation type="History" effective="1988-02-19" doc="TL5-001">TL5-001, 2/19/88</annotation>
