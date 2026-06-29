@@ -48,7 +48,12 @@
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR14/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR13/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR12/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR11/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR10/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR9/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR8/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR7/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/bills/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
   </collection>
