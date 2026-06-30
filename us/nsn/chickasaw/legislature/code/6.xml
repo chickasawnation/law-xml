@@ -1945,15 +1945,8 @@
         <annotations>
           <annotation type="History" effective="2016-09-16" doc="PR33-006">PR33-006, 9/16/16</annotation>
           <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
-          <annotation type="History" effective="2016-09-16" doc="PR33-006">PR33-006, 9/16/16</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
           <annotation type="History" effective="2002-06-27" doc="PR19-019">PR19-019, 6/27/02</annotation>
           <annotation type="History" effective="2002-07-19" doc="PR19-023">PR19-023, 7/19/02</annotation>
-          <annotation type="History" effective="2021-09-17" doc="PR38-037">PR38-037, 09/17/2021</annotation>
         </annotations>
       </section>
       <section>
@@ -5446,7 +5439,6 @@
         </para>
         <annotations>
           <annotation type="History" effective="2022-02-18" doc="PR39-004">PR39-004, 2/18/2022</annotation>
-          <annotation type="History" effective="2022-02-18" doc="PR39-004">PR39-004, 2/18/2022</annotation>
           <annotation type="History" effective="2021-08-20" doc="PR38-035">PR38-035, 08/20/2021</annotation>
         </annotations>
       </section>
@@ -6023,7 +6015,7 @@
     <container>
       <prefix>Article</prefix>
       <num>D</num>
-      <heading>ADJUDICATION (PR30-007, 5/17/13)</heading>
+      <heading>ADJUDICATION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-204.1</num>
@@ -6665,11 +6657,14 @@
           <annotation type="History" effective="2021-06-18" doc="PR38-030">PR38-030, 6/18/2021</annotation>
         </annotations>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>E</num>
-      <heading>DISPOSITION (PR30-007, 5/17/13)</heading>
+      <heading>DISPOSITION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-205.1</num>
@@ -6884,6 +6879,9 @@
           <text>The rights and duties of the Traditional Custodians and Grandparents may be enforced by Court order whenever it appears in the Child's best interest to do so, provided that all interested parties shall be given notice and an opportunity to be heard.</text>
         </para>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -7474,7 +7472,7 @@
     <container>
       <prefix>Article</prefix>
       <num>H</num>
-      <heading>FOSTER CARE (PR30-007, 5/17/13)</heading>
+      <heading>FOSTER CARE</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-208.1</num>
@@ -7575,6 +7573,9 @@
           </para>
         </para>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
   </container>
   <container>
@@ -7889,7 +7890,7 @@
     <container>
       <prefix>Article</prefix>
       <num>B</num>
-      <heading>CONFIDENTIAL RECORDS (PR30-007, 5/17/13)</heading>
+      <heading>CONFIDENTIAL RECORDS</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-302.1</num>
@@ -7983,7 +7984,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="History" effective="2022-02-18" doc="PR39-004">PR39-004, 2/18/2022</annotation>
           <annotation type="History" effective="2022-02-18" doc="PR39-004">PR39-004, 2/18/2022</annotation>
         </annotations>
       </section>
@@ -8079,6 +8079,9 @@
           </para>
         </para>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -8559,7 +8562,7 @@
     <container>
       <prefix>Article</prefix>
       <num>G</num>
-      <heading>ADJUDICATION (PR30-007, 5/17/13)</heading>
+      <heading>ADJUDICATION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-307.1</num>
@@ -8902,11 +8905,14 @@
         <heading>MEDICAL EXAMINATION.</heading>
         <text>The Court may have the Child examined by a physician, psychiatrist, psychologist, or other treatment professional, and the Court may place the Child in a hospital or other suitable facility for this purpose.</text>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
       <num>H</num>
-      <heading>DISPOSITION (PR30-007, 5/17/13)</heading>
+      <heading>DISPOSITION</heading>
       <section>
         <prefix>Section</prefix>
         <num>6-308.1</num>
@@ -9185,6 +9191,9 @@
           <text>The Chickasaw Nation shall have the same right to appeal questions of law in Delinquent Child cases as in criminal cases.</text>
         </para>
       </section>
+      <annotations>
+        <annotation type="History" effective="2013-05-17" doc="PR30-007">PR30-007, 5/17/13</annotation>
+      </annotations>
     </container>
     <container>
       <prefix>Article</prefix>
@@ -12648,9 +12657,6 @@
         <text>In addition to other specified information any order of the Court approving an annual Guardianship Plan and report shall include the date certain by which the Guardian shall file the next annual report.</text>
       </para>
       <annotations>
-        <annotation type="History" effective="2019-05-17" doc="PR36-005">PR36-005, 5/17/2019</annotation>
-        <annotation type="History" effective="2019-05-17" doc="PR36-005">PR36-005, 5/17/2019</annotation>
-        <annotation type="History" effective="2019-05-17" doc="PR36-005">PR36-005, 5/17/2019</annotation>
         <annotation type="History" effective="2019-05-17" doc="PR36-005">PR36-005, 5/17/2019</annotation>
       </annotations>
     </section>
