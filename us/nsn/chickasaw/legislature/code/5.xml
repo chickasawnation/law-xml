@@ -740,10 +740,10 @@
                 <para>
                   <num>B.</num>
                   <text>Except as stated in Subsection C below, a lawyer may withdraw from representing a client if withdrawal can be accomplished without material adverse effect on the interests of the client, or if:</text>
-                </para>
-                <para>
-                  <num>1.</num>
-                  <text>a client insists upon pursuing an objective that the lawyer considers repugnant or imprudent to the extent that it is likely to impair the client- lawyer relationship or the lawyer's ability to represent the client.</text>
+                  <para>
+                    <num>1.</num>
+                    <text>a client insists upon pursuing an objective that the lawyer considers repugnant or imprudent to the extent that it is likely to impair the client- lawyer relationship or the lawyer's ability to represent the client.</text>
+                  </para>
                   <para>
                     <num>2.</num>
                     <text>the client fails Substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given Reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;</text>
@@ -992,13 +992,12 @@
                   <text>request a person other than a client to refrain from voluntarily giving relevant information to another party unless:</text>
                   <para>
                     <num>a.</num>
-                    <text>the person is a relative or an employee or other agent of a client;</text>
+                    <text>the person is a relative or an employee or other agent of a client; and</text>
                   </para>
-                </para>
-                <text>and</text>
-                <para>
-                  <num>b.</num>
-                  <text>the lawyer Reasonably Believes that the person's interests will not be adversely affected by refraining from giving such information.</text>
+                  <para>
+                    <num>b.</num>
+                    <text>the lawyer Reasonably Believes that the person's interests will not be adversely affected by refraining from giving such information.</text>
+                  </para>
                 </para>
               </section>
               <section>
@@ -1836,42 +1835,86 @@
               <para>
                 <num>1.</num>
                 <text>A judge shall disqualify himself or herself in a proceeding in which the judge's impartiality might reasonably be questioned, or where disqualification is required due to a requirement under applicable law, including but not limited to instances in which:</text>
-              </para>
-              <para>
-                <num>a.</num>
-                <text>the judge has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;</text>
-              </para>
-              <para>
-                <num>b.</num>
-                <text>the judge served as lawyer in the matter in controversy, or a lawyer with whom the judge previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been material witness;</text>
-              </para>
-              <para>
-                <num>c.</num>
-                <text>the judge knows that, individually or as fiduciary, the judge or the judge's spouse or minor child residing in the judge's household, has a financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be affected substantially by the outcome of the proceeding;</text>
-              </para>
-              <para>
-                <num>d.</num>
-                <text>the judge or the judge's spouse, or a person related to either within the third degree of relationship, or the spouse of such person:</text>
                 <para>
-                  <num>I.</num>
-                  <text>is a party to the proceeding, or an officer, director or trustee of a party;</text>
+                  <num>a.</num>
+                  <text>the judge has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;</text>
                 </para>
                 <para>
-                  <num>ii.</num>
-                  <text>is acting as a lawyer in the proceeding;</text>
+                  <num>b.</num>
+                  <text>the judge served as lawyer in the matter in controversy, or a lawyer with whom the judge previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been material witness;</text>
                 </para>
                 <para>
-                  <num>iii.</num>
-                  <text>is to the judge's knowledge likely to be a material witness in the proceeding;</text>
+                  <num>c.</num>
+                  <text>the judge knows that, individually or as fiduciary, the judge or the judge's spouse or minor child residing in the judge's household, has a financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be affected substantially by the outcome of the proceeding;</text>
                 </para>
                 <para>
-                  <num>iv.</num>
-                  <text>is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; or</text>
+                  <num>d.</num>
+                  <text>the judge or the judge's spouse, or a person related to either within the third degree of relationship, or the spouse of such person:</text>
+                  <para>
+                    <num>I.</num>
+                    <text>is a party to the proceeding, or an officer, director or trustee of a party;</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>is acting as a lawyer in the proceeding;</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>is to the judge's knowledge likely to be a material witness in the proceeding;</text>
+                  </para>
+                  <para>
+                    <num>iv.</num>
+                    <text>is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; or</text>
+                  </para>
+                </para>
+                <para>
+                  <num>e.</num>
+                  <text>the judge has served in governmental employment and in such capacity participated as counsel, advisor, or material witness concerning the proceeding or has expressed an opinion concerning the merits of the particular case in controversy.</text>
                 </para>
               </para>
               <para>
-                <num>e.</num>
-                <text>the judge has served in governmental employment and in such capacity participated as counsel, advisor, or material witness concerning the proceeding or has expressed an opinion concerning the merits of the particular case in controversy.</text>
+                <num>2.</num>
+                <text>A judge should keep informed about his personal and fiduciary financial interests and make reasonable effort to keep informed about the personal financial interests of the his spouse and minor children residing in his household.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>For the purposes of this Canon:</text>
+                <para>
+                  <num>a.</num>
+                  <text>the judge has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>the judge served as lawyer in the matter in controversy, or a lawyer with whom the judge previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been material witness;</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>the judge knows that, individually or as fiduciary, the judge or the judge's spouse or minor child residing in the judge's household, has a financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be affected substantially by the outcome of the proceeding;</text>
+                </para>
+                <para>
+                  <num>d.</num>
+                  <text>the judge or the judge's spouse, or a person related to either within the third degree of relationship, or the spouse of such person:</text>
+                  <para>
+                    <num>I.</num>
+                    <text>is a party to the proceeding, or an officer, director or trustee of a party;</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>is acting as a lawyer in the proceeding;</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>is to the judge's knowledge likely to be a material witness in the proceeding;</text>
+                  </para>
+                  <para>
+                    <num>iv.</num>
+                    <text>is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; or</text>
+                  </para>
+                </para>
+                <para>
+                  <num>e.</num>
+                  <text>the judge has served in governmental employment and in such capacity participated as counsel, advisor, or material witness concerning the proceeding or has expressed an opinion concerning the merits of the particular case in controversy.</text>
+                </para>
               </para>
               <para>
                 <num>2.</num>
@@ -2352,7 +2395,7 @@
       <attachments>
         <attachment id="APPENDIX-A">
           <heading>APPENDIX "A"</heading>
-          <text>
+          <text class="center">
             <strong>IN THE DISTRICT COURT OF THE CHICKASAW NATION</strong>
           </text>
           <text>
@@ -2370,7 +2413,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2400,7 +2443,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2414,8 +2457,8 @@
           <text class="center">
             <strong>NOTICE OF INTENT TO APPEAL</strong>
           </text>
-          <text><strong>COMES NOW,</strong> the 	Petitioner 	Respondent</text>
-          <text>and gives notice of their intent to appeal the decision rendered by this Court on the 	day of 	, 20	.</text>
+          <text><strong>COMES NOW,</strong> the _____ Petitioner _____ Respondent ____________________</text>
+          <text>and gives notice of their intent to appeal the decision rendered by this Court on the __ day of __, 20__.</text>
           <text>
             <table class="layout-table">
               <tbody>
@@ -2433,7 +2476,7 @@
           <text class="center">
             <strong>CERTIFICATE</strong>
           </text>
-          <text>Received this 	day of 	, 20	.</text>
+          <text>Received this __ day of __, 20__.</text>
           <text>
             <table class="layout-table">
               <tbody>
@@ -2469,7 +2512,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2499,7 +2542,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2580,7 +2623,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2610,7 +2653,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2653,7 +2696,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2683,7 +2726,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2739,7 +2782,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2769,7 +2812,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2828,7 +2871,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -2858,7 +2901,7 @@
                 </tr>
                 <tr>
                   <td data-width="423076">______________________</td>
-                  <td proof="needed" data-width="38461"/>
+                  <th data-width="38461">)</th>
                   <td proof="needed" data-width="538461"/>
                 </tr>
                 <tr>
@@ -4554,453 +4597,450 @@
           <text>Forms.</text>
           <text>The following forms shall be used for the scheduling order, order for pretrial conference and pretrial conference order:</text>
           <include>
-            <attachment id="IN-THE-DISTRICT-COURT-OF-THE-CHICKASAW-NATION">
-              <heading>IN THE DISTRICT COURT OF THE CHICKASAW NATION</heading>
-              <text>
-                <table class="layout-table">
-                  <tbody>
-                    <tr>
-                      <td data-width="423076">,</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">Plaintiff(s),</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">vs.</td>
-                      <td data-width="38461">)</td>
-                      <td data-width="538461">DC-</td>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">,</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">Defendant(s).</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                  </tbody>
-                </table>
-              </text>
-              <text class="center">
-                <strong>
-                  <u>SCHEDULING ORDER</u>
-                </strong>
-              </text>
-              <text><strong>THIS ORDER </strong>is entered this the 	 day of 	, 20 . Counsel has discussed with this Court their respective need for adequate discovery time, complexity of legal issues to be addressed, an the caseload in arriving at this Scheduling Order.</text>
-              <text><strong>IT IS ORDERED </strong>that the following must be completed within the time fixed herein:</text>
-              <text>
-                <table>
-                  <tbody>
-                    <tr>
-                      <td>1.</td>
-                      <td>Neither Joinder of Additional Parties nor Amendment to the Pleadings may be filed after:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>2.</td>
-                      <td>Discovery: Must be completed by:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed"/>
-                      <td>Initial Witness &amp; Exhibit List due by:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed"/>
-                      <td>Final Witness &amp; Exhibit List due by:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>3.</td>
-                      <td>Trial Deposition Cut-Off:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>4.</td>
-                      <td>All motions must be filed by:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>5.</td>
-                      <td proof="needed">
-                        <p>Pre-Trial Conference Date &amp; Time:</p>
-                        <p>(Proposed Pre-Trial Order must be filed 5 days prior to pre-trial)</p>
-                      </td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>6.</td>
-                      <td>Trial Date(s):</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>7.</td>
-                      <td>Estimated Time of Trial</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed"/>
-                      <td proof="needed"/>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>8.</td>
-                      <td>Requested Jury Instructions due 5 days prior to trial</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>9.</td>
-                      <td>Proposed Findings of Fact and Conclusions of Law: (Non Jury Cases) Must be filed by:</td>
-                      <td proof="needed"/>
-                    </tr>
-                    <tr>
-                      <td>10.</td>
-                      <td>Additionally Ordered:</td>
-                      <td proof="needed"/>
-                    </tr>
-                  </tbody>
-                </table>
-              </text>
-              <text>
-                <strong>JURY COSTS MUST BE PAID PRIOR TO PRE-TRIAL, OTHERWISE JURY IS WAIVED.</strong>
-              </text>
-              <text><strong>IT IS FURTHER ORDERED</strong> that no date set by this Order can be changed except for good cause and upon written order of this Court, prior to the date scheduled.</text>
-              <text><strong>IT IS FURTHER ORDERED</strong> that if any party has an objection to the schedule set forth above, a written Motion for Scheduling Conference shall be filed within fifteen (15) days of this Order, or the Written objection shall be waived.</text>
+            <heading>SCHEDULING ORDER</heading>
+            <text>IN THE DISTRICT COURT OF THE CHICKASAW NATION</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Plaintiff(s),</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">vs.</td>
+                    <td data-width="38461">)</td>
+                    <td data-width="538461">DC-</td>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Defendant(s).</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text class="center">
+              <strong>
+                <u>SCHEDULING ORDER</u>
+              </strong>
+            </text>
+            <text><strong>THIS ORDER </strong>is entered this the _____ day of _____________, 20__. Counsel has discussed with this Court their respective need for adequate discovery time, complexity of legal issues to be addressed, an the caseload in arriving at this Scheduling Order.</text>
+            <text><strong>IT IS ORDERED </strong>that the following must be completed within the time fixed herein:</text>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>1.</td>
+                    <td>Neither Joinder of Additional Parties nor Amendment to the Pleadings may be filed after:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>2.</td>
+                    <td>Discovery: Must be completed by:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed"/>
+                    <td>Initial Witness &amp; Exhibit List due by:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed"/>
+                    <td>Final Witness &amp; Exhibit List due by:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>3.</td>
+                    <td>Trial Deposition Cut-Off:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>4.</td>
+                    <td>All motions must be filed by:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>5.</td>
+                    <td proof="needed">
+                      <p>Pre-Trial Conference Date &amp; Time:</p>
+                      <p>(Proposed Pre-Trial Order must be filed 5 days prior to pre-trial)</p>
+                    </td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>6.</td>
+                    <td>Trial Date(s):</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>7.</td>
+                    <td>Estimated Time of Trial</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>8.</td>
+                    <td>Requested Jury Instructions due 5 days prior to trial</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>9.</td>
+                    <td>Proposed Findings of Fact and Conclusions of Law: (Non Jury Cases) Must be filed by:</td>
+                    <td proof="needed"/>
+                  </tr>
+                  <tr>
+                    <td>10.</td>
+                    <td>Additionally Ordered:</td>
+                    <td proof="needed"/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text>
+              <strong>JURY COSTS MUST BE PAID PRIOR TO PRE-TRIAL, OTHERWISE JURY IS WAIVED.</strong>
+            </text>
+            <text><strong>IT IS FURTHER ORDERED</strong> that no date set by this Order can be changed except for good cause and upon written order of this Court, prior to the date scheduled.</text>
+            <text><strong>IT IS FURTHER ORDERED</strong> that if any party has an objection to the schedule set forth above, a written Motion for Scheduling Conference shall be filed within fifteen (15) days of this Order, or the Written objection shall be waived.</text>
+            <text><strong>IT IS FURTHER ORDERED</strong> that this Order be served upon all parties to this action, by the District Court Clerk, by mailing or delivering a copy of it to their respective counsel of record, or to a party appearing without counsel.</text>
+            <text><strong>DATED </strong>this the _____ day of _________________, 20__.</text>
+            <text>__________________________________________________ Judge of the District Court of the Chickasaw Nation</text>
+            <heading>ORDER FOR PRE-TRIAL CONFERENCE</heading>
+            <text>
+              <strong>IN THE DISTRICT COURT OF THE CHICKASAW NATION</strong>
+            </text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Plaintiff(s),</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">vs.</td>
+                    <td data-width="38461">)</td>
+                    <td data-width="538461">DC-</td>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Defendant(s).</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text class="center">
+              <strong>
+                <u>ORDER FOR PRE-TRIAL CONFERENCE</u>
+              </strong>
+            </text>
+            <text>The Court had determined that this case is at issue, that a pre-trial conference is required.</text>
+            <text>The pre-trial conference is to be attended by the parties or their attorneys, if represented by counsel. Counsel and parties, if <em>pro se</em>, must be prepared to admit and stipulate undisputed facts waive formal proof of documents, furnish names and addresses of witnesses and the nature of testimony, submit exhibits at pre-trial, discuss points of law and submit trial briefs thereon. The pre-trial conference will result in reduction of the number of witnesses in an effort to avoid cumulative testimony and other findings which might aid in the disposition of this case.</text>
+            <text><strong>IT IS THEREFORE ORDERED</strong> that:</text>
+            <para>
+              <num>a.</num>
+              <text>A Pre-Trial Conference is to be held in this case on the ___ day of ___________, 20__, at ____ o'clock _.m., before the (undersigned Judge) (Court Advocate) (Peacemaker____________(name). Attorneys or parties, if pro se, shall meet, in person, prior to the pre-trial conference and must prepare a single suggested pre-trial order for use during the pre-trial conference. THE ORDER MUST BE SUBMITTED TO THE JUDGE NOT LESS THAN FIVE (5) DAYS PRIOR TO THE SCHEDULED CONFERENCE.</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>Counsel or parties, if <em>pro se</em>, who will conduct the trial must be present at the pre-trial conference.</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>Failure of a party or his or her attorney to appear, be prepared or participate in good faith in the meeting for the preparation of the Pre-Trial Order or the pre-trial conference will result in the striking of their pleadings; a preclusion order; staying the proceedings;  judgment; assessment of expenses and fees; dismissal of the lawsuit; or such other order as the Court may deem just and appropriate.</text>
+            </para>
+            <para>
+              <num>d.</num>
+              <text>Parties shall produce for identification, examination and discussion, ALL exhibits which they intend to offer into evidence at trial. Unless an exhibit has been so identified, it shall not be offered into evidence at the trial, except for good cause shown. At trial, each party shall provide the Court and reporter a list of all exhibits to be offered, together with a pre-numbered original exhibit. Each party should also have a copy to supply to the witness and to all other parties in the lawsuit. Copies shall be made prior to trial to prevent the original from being withdrawn.</text>
+            </para>
+            <para>
+              <num>e.</num>
+              <text>Parties shall obtain the names, addresses and general nature of the testimony of all witnesses to be called for the trial and furnish the same in writing to opposing counsel and the Court. Unless a witness has been so identified, he or she shall not testify at trial over the objection of opposing counsel, except for good cause shown.</text>
+            </para>
+            <para>
+              <num>f.</num>
+              <text>Parties shall prepare and submit in the Pre-Trial Order a brief written statement of the case, including all grounds for recovery, and /or all grounds for defense and all applicable statutes, ordinances or case law, and specification of all damages claimed.</text>
+            </para>
+            <para>
+              <num>g.</num>
+              <text>The Pre-Trial Order must contain all Motions <em>in Limine </em>the parties wish to present for the Court's consideration. Unless your motion is contained in the Pre-Trial Order, it will not be considered at a later date.</text>
+            </para>
+            <para>
+              <num>h.</num>
+              <text>Parties are to prepare and submit, in the Pre-Trial Order, a written statement of the stipulations which they reasonably expect opposing party to enter.</text>
+            </para>
+            <para>
+              <num>i.</num>
+              <text>Counsel shall consult their clients, prior to the pre-trial conference, with reference to authority for settlement of this case, and discuss among themselves the possibilities of settlement. Counsel shall further discuss in advance of the pre-trial conference the facts, issues, documents and exhibits involved in the case, so that as many stipulations and agreements as possible may be made in advance between the parties.</text>
+            </para>
+            <para>
+              <num>j.</num>
+              <text>If not previously set, upon conclusion of the pre-trial conference this case shall be set for trial at a time certain or such order entered as may be required.</text>
+            </para>
+            <para>
+              <num>k.</num>
+              <text>In addition to the above pre-trial, all parties are to submit a complete set of Jury</text>
+              <text>Instructions to the Court five (5) days prior to trial.</text>
+            </para>
+            <para>
+              <num>l.</num>
+              <text>The Proposed Pre-Trial Order shall be mailed to the Chickasaw Nation District Court, Attn: District Court Judge.</text>
               <text><strong>IT IS FURTHER ORDERED</strong> that this Order be served upon all parties to this action, by the District Court Clerk, by mailing or delivering a copy of it to their respective counsel of record, or to a party appearing without counsel.</text>
-              <text><strong>DATED </strong>this the 	 day of 	, 20	.</text>
-              <text>__________________________________________________ Judge of the District Court of the Chickasaw Nation</text>
+              <text><strong>DATED </strong>this the ______ day of __________________, 20__.</text>
+              <text>_____________________________________ Judge of the District Court of the Chickasaw Nation</text>
+            </para>
+            <heading>PRETRIAL CONFERENCE ORDER</heading>
+            <text>
+              <strong>IN THE DISTRICT COURT OF THE CHICKASAW NATION</strong>
+            </text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Plaintiff(s),</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">vs.</td>
+                    <td data-width="38461">)</td>
+                    <td data-width="538461">DC-</td>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">__________________,</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td proof="needed" data-width="423076"/>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                  <tr>
+                    <td data-width="423076">Defendant(s).</td>
+                    <td data-width="38461">)</td>
+                    <td proof="needed" data-width="538461"/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text>
+              <strong>
+                <u>PRETRIAL CONFERENCE ORDER</u>
+              </strong>
+            </text>
+            <para>
+              <num>1.</num>
+              <heading>Appearances:</heading>
+            </para>
+            <para>
+              <num>2.</num>
+              <heading>General Statement of Facts:</heading>
+            </para>
+            <para>
+              <num>3.</num>
+              <heading>Plaintiff's Contentions:</heading>
+            </para>
+            <para>
+              <num>A.</num>
+              <text>List All Theories of Recovery and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>List Damages or Relief Sought.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <heading>Defendant's Contentions:</heading>
+              <text>List All Theories of Defense and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <heading>Defendant's Claims for Relief:</heading>
+              <text>List Any Claims of Relief Sought (By Cross-Claim, Counter-claim, or Set-Off), and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <heading>Miscellaneous:</heading>
+            </para>
+            <para>
+              <num>A.</num>
               <text>
-                <strong>IN THE DISTRICT COURT OF THE CHICKASAW NATION</strong>
+                <strong>Is Jury Waived?</strong>
               </text>
+            </para>
+            <para>
+              <num>B.</num>
               <text>
-                <table class="layout-table">
-                  <tbody>
-                    <tr>
-                      <td data-width="423076">,</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">Plaintiff(s),</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">vs.</td>
-                      <td data-width="38461">)</td>
-                      <td data-width="538461">DC-</td>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">,</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td proof="needed" data-width="423076"/>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                    <tr>
-                      <td data-width="423076">Defendant(s).</td>
-                      <td data-width="38461">)</td>
-                      <td proof="needed" data-width="538461"/>
-                    </tr>
-                  </tbody>
-                </table>
+                <strong>Is Additional Discovery Requested?</strong>
               </text>
-              <text class="center">
-                <strong>
-                  <u>ORDER FOR PRE-TRIAL CONFERENCE</u>
-                </strong>
+            </para>
+            <para>
+              <num>C.</num>
+              <heading>A trial brief (is/is not) required by the Court.</heading>
+            </para>
+            <para>
+              <num>D.</num>
+              <heading>Other Matters:</heading>
+              <text>
+                <strong>Due by:</strong>
+                <strong>______________________________________</strong>
               </text>
-              <text>The Court had determined that this case is at issue, that a pre-trial conference is required.</text>
-              <text>The pre-trial conference is to be attended by the parties or their attorneys, if represented by counsel. Counsel and parties, if <em>pro se</em>, must be prepared to admit and stipulate undisputed facts waive formal proof of documents, furnish names and addresses of witnesses and the nature of testimony, submit exhibits at pre-trial, discuss points of law and submit trial briefs thereon. The pre-trial conference will result in reduction of the number of witnesses in an effort to avoid cumulative testimony and other findings which might aid in the disposition of this case.</text>
-              <text><strong>IT IS THEREFORE ORDERED</strong> that:</text>
-              <para>
-                <num>a.</num>
-                <text>A Pre-Trial Conference is to be held in this case on the 	 day of , 20	, at 	 o'clock 	.m., before the (undersigned Judge) (Court Advocate) (Peacemaker 			(name). Attorneys or parties, if pro se, shall meet, in person, prior to the pre-trial conference and must prepare a single suggested pre-trial order for use during the pre-trial conference. THE ORDER MUST BE SUBMITTED TO THE JUDGE NOT LESS THAN FIVE (5) DAYS PRIOR TO THE SCHEDULED CONFERENCE.</text>
-              </para>
-              <para>
-                <num>b.</num>
-                <text>Counsel or parties, if <em>pro se</em>, who will conduct the trial must be present at the pre-trial conference.</text>
-              </para>
-              <para>
-                <num>c.</num>
-                <text>Failure of a party or his or her attorney to appear, be prepared or participate in good faith in the meeting for the preparation of the Pre-Trial Order or the pre-trial conference will</text>
-                <text>result in the striking of their pleadings; a preclusion order; staying the proceedings;</text>
-                <text>default judgment; assessment of expenses and fees; dismissal of the lawsuit; or such other order as the Court may deem just and appropriate.</text>
-              </para>
-              <para>
-                <num>d.</num>
-                <text>Parties shall produce for identification, examination and discussion, ALL exhibits which they intend to offer into evidence at trial. Unless an exhibit has been so identified, it shall not be offered into evidence at the trial, except for good cause shown. At trial, each party shall provide the Court and reporter a list of all exhibits to be offered, together with a pre-numbered original exhibit. Each party should also have a copy to supply to the witness and to all other parties in the lawsuit. Copies shall be made prior to trial to prevent the original from being withdrawn.</text>
-              </para>
-              <para>
-                <num>e.</num>
-                <text>Parties shall obtain the names, addresses and general nature of the testimony of all witnesses to be called for the trial and furnish the same in writing to opposing counsel and the Court. Unless a witness has been so identified, he or she shall not testify at trial over the objection of opposing counsel, except for good cause shown.</text>
-              </para>
-              <para>
-                <num>f.</num>
-                <text>Parties shall prepare and submit in the Pre-Trial Order a brief written statement of the case, including all grounds for recovery, and /or all grounds for defense and all applicable statutes, ordinances or case law, and specification of all damages claimed.</text>
-              </para>
-              <para>
-                <num>g.</num>
-                <text>The Pre-Trial Order must contain all Motions <em>in Limine </em>the parties wish to present for the Court's consideration. Unless your motion is contained in the Pre-Trial Order, it will not be considered at a later date.</text>
-              </para>
-              <para>
-                <num>h.</num>
-                <text>Parties are to prepare and submit, in the Pre-Trial Order, a written statement of the stipulations which they reasonably expect opposing party to enter.</text>
-              </para>
-              <para>
-                <num>i.</num>
-                <text>Counsel shall consult their clients, prior to the pre-trial conference, with reference to authority for settlement of this case, and discuss among themselves the possibilities of settlement. Counsel shall further discuss in advance of the pre-trial conference the facts, issues, documents and exhibits involved in the case, so that as many stipulations and agreements as possible may be made in advance between the parties.</text>
-              </para>
-              <para>
-                <num>j.</num>
-                <text>If not previously set, upon conclusion of the pre-trial conference this case shall be set for trial at a time certain or such order entered as may be required.</text>
-              </para>
-              <para>
-                <num>k.</num>
-                <text>In addition to the above pre-trial, all parties are to submit a complete set of Jury</text>
-                <text>Instructions to the Court five (5) days prior to trial.</text>
-              </para>
-              <para>
-                <num>l.</num>
-                <text>The Proposed Pre-Trial Order shall be mailed to the Chickasaw Nation District Court, Attn: District Court Judge.</text>
-                <text><strong>IT IS FURTHER ORDERED</strong> that this Order be served upon all parties to this action, by the District Court Clerk, by mailing or delivering a copy of it to their respective counsel of record, or to a party appearing without counsel.</text>
-                <text><strong>DATED </strong>this the 	 day of 	, 20	.</text>
-                <text>__________________________________________________ Judge of the District Court of the Chickasaw Nation</text>
-                <text>
-                  <strong>IN THE DISTRICT COURT OF THE CHICKASAW NATION</strong>
-                </text>
-                <text>
-                  <table class="layout-table">
-                    <tbody>
-                      <tr>
-                        <td data-width="423076">,</td>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td proof="needed" data-width="423076"/>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td data-width="423076">Plaintiff(s),</td>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td proof="needed" data-width="423076"/>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td data-width="423076">vs.</td>
-                        <td data-width="38461">)</td>
-                        <td data-width="538461">DC-</td>
-                      </tr>
-                      <tr>
-                        <td proof="needed" data-width="423076"/>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td data-width="423076">,</td>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td proof="needed" data-width="423076"/>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                      <tr>
-                        <td data-width="423076">Defendant(s).</td>
-                        <td data-width="38461">)</td>
-                        <td proof="needed" data-width="538461"/>
-                      </tr>
-                    </tbody>
-                  </table>
-                </text>
-                <text>
-                  <strong>
-                    <u>PRETRIAL CONFERENCE ORDER</u>
-                  </strong>
-                </text>
-              </para>
-              <para>
-                <num>1.</num>
-                <heading>Appearances:</heading>
-              </para>
-              <para>
-                <num>2.</num>
-                <heading>General Statement of Facts:</heading>
-              </para>
-              <para>
-                <num>3.</num>
-                <heading>Plaintiff's Contentions:</heading>
-              </para>
-              <para>
-                <num>A.</num>
-                <text>List All Theories of Recovery and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
-              </para>
-              <para>
-                <num>B.</num>
-                <text>List Damages or Relief Sought.</text>
-              </para>
-              <para>
-                <num>4.</num>
-                <heading>Defendant's Contentions:</heading>
-                <text>List All Theories of Defense and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
-              </para>
-              <para>
-                <num>5.</num>
-                <heading>Defendant's Claims for Relief:</heading>
-                <text>List Any Claims of Relief Sought (By Cross-Claim, Counter-claim, or Set-Off), and the Applicable Statutes, Ordinances, and Common Law Rules Relied Upon.</text>
-              </para>
-              <para>
-                <num>6.</num>
-                <heading>Miscellaneous:</heading>
-                <text>
-                  <table class="layout-table">
-                    <tbody>
-                      <tr>
-                        <td>A.</td>
-                        <td>Is Jury Waived?</td>
-                      </tr>
-                      <tr>
-                        <td>B.</td>
-                        <td>Is Additional Discovery Requested?</td>
-                      </tr>
-                      <tr>
-                        <td>C.</td>
-                        <td>A trial brief (is/is not) required by the Court.</td>
-                      </tr>
-                      <tr>
-                        <td>D.</td>
-                        <td proof="needed">
-                          <p>Due by:	.</p>
-                          <p>______________________________________</p>
-                          <p>Other Matters:</p>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>7.</td>
-                        <th>Plaintiff's Exhibits:</th>
-                      </tr>
-                      <tr>
-                        <td>A.</td>
-                        <td>List by Number and Description.</td>
-                      </tr>
-                      <tr>
-                        <td>B.</td>
-                        <td>As to Each Numbered Exhibit, State Any Objection and Its Basis.</td>
-                      </tr>
-                      <tr>
-                        <td>8.</td>
-                        <th>Defendant's Exhibits:</th>
-                      </tr>
-                      <tr>
-                        <td>A.</td>
-                        <td>List by Number and Description.</td>
-                      </tr>
-                      <tr>
-                        <td>B.</td>
-                        <td>As to Each Numbered Exhibit, State Any Objection and Its Basis.</td>
-                      </tr>
-                      <tr>
-                        <td>9.</td>
-                        <td><strong>Plaintiff's Witnesses:</strong> List Names, Addresses, and Substance of Testimony.</td>
-                      </tr>
-                      <tr>
-                        <td>10.</td>
-                        <td><strong>Defendant's Witnesses:</strong> List Names, Addresses, and Substance of Testimony.</td>
-                      </tr>
-                      <tr>
-                        <td>11.</td>
-                        <th>Requested Jury Instructions Due By:</th>
-                      </tr>
-                      <tr>
-                        <td>12.</td>
-                        <td proof="needed">
-                          <p>_______________________________________</p>
-                          <p>
-                            <strong>Estimated Trial Time:</strong>
-                          </p>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>13.</td>
-                        <th>Stipulations:</th>
-                      </tr>
-                      <tr>
-                        <td>14.</td>
-                        <td><strong>Settlement:</strong> Has the Possibility of Settlement Been Explored?</td>
-                      </tr>
-                      <tr>
-                        <td>15.</td>
-                        <td><strong>TRIAL DATE SET FOR</strong>: 	, 	, 20  .</td>
-                      </tr>
-                      <tr>
-                        <td proof="needed"/>
-                        <td>(month)	(day)</td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </text>
-                <text><strong>DATED </strong>this the 	 day of 	, 20	.</text>
-                <text>_______________________________________________________________ Judge of the District Court of the Chickasaw Nation Approved:</text>
-                <text>____________________________________________________________________</text>
-                <text>Attorney for Plaintiff</text>
-                <text>____________________________________________________________________</text>
-                <text>Attorney for Defendant</text>
-                <text>____________________________________________________________________</text>
-                <text>Attorney for</text>
-              </para>
-            </attachment>
+            </para>
+            <para>
+              <num>7.</num>
+              <heading>Plaintiff's Exhibits:</heading>
+            </para>
+            <para>
+              <num>A.</num>
+              <heading>List by Number and Description.</heading>
+            </para>
+            <para>
+              <num>B.</num>
+              <heading>As to Each Numbered Exhibit, State Any Objection and Its Basis.</heading>
+            </para>
+            <para>
+              <num>8.</num>
+              <heading>Defendant's Exhibits:</heading>
+            </para>
+            <para>
+              <num>A.</num>
+              <heading>List by Number and Description.</heading>
+            </para>
+            <para>
+              <num>B.</num>
+              <heading>As to Each Numbered Exhibit, State Any Objection and Its Basis.</heading>
+            </para>
+            <para>
+              <num>9.</num>
+              <heading>Plaintiff's Witnesses:</heading>
+              <text>
+                <strong>List Names, Addresses, and Substance of Testimony.</strong>
+              </text>
+            </para>
+            <para>
+              <num>10.</num>
+              <heading>Defendant's Witnesses:</heading>
+              <text>
+                <strong>List Names, Addresses, and Substance of Testimony.</strong>
+              </text>
+            </para>
+            <para>
+              <num>11.</num>
+              <text>
+                <strong>Requested Jury Instructions Due By:__________________</strong>
+              </text>
+            </para>
+            <para>
+              <num>12.</num>
+              <heading>Estimated Trial Time:</heading>
+            </para>
+            <para>
+              <num>13.</num>
+              <heading>Stipulations:</heading>
+            </para>
+            <para>
+              <num>14.</num>
+              <heading>Settlement:</heading>
+              <text>
+                <strong>Has the Possibility of Settlement Been Explored?</strong>
+              </text>
+            </para>
+            <para>
+              <num>15.</num>
+              <heading>TRIAL DATE SET FOR:</heading>
+              <text>
+                <strong>______(month), ____(day), 20__.</strong>
+              </text>
+            </para>
+            <text><strong>DATED </strong>this the ___ day of ___, 20__.</text>
+            <text>_______________________________________________________________ Judge of the District Court of the Chickasaw Nation Approved:</text>
+            <text>____________________________________________________________________</text>
+            <text>Attorney for Plaintiff</text>
+            <text>____________________________________________________________________</text>
+            <text>Attorney for Defendant</text>
+            <text>____________________________________________________________________</text>
+            <text>Attorney for ______________________</text>
           </include>
         </para>
         <annotations>
@@ -5512,10 +5552,17 @@
         <num>5-203.6</num>
         <heading>CERTIFICATION OF TRUE COPIES.</heading>
         <text>The Court Clerk is authorized to certify that a copy of any record in his office is a true and accurate copy of the record on file by signed stamp or writing placed on such copy, sealed with the seal of the Court Clerk's office, and in substantially the following form:</text>
-        <text class="center">
-          <u>CERTIFICATE OF TRUE COPY</u>
-        </text>
-        <text>I hereby certify that  the above and foregoing is a true, accurate and exact copy of the original of same as it remains of record on file in my office. Clerk of the [District Court] [Supreme Court] THE CHICKASAW NATION Date Certified copies of records shall be admissible as evidence without further authentication in all judicial and administrative proceedings of the Chickasaw Nation.</text>
+        <include>
+          <text class="center">
+            <u>CERTIFICATE OF TRUE COPY</u>
+          </text>
+          <text>I hereby certify that the above and foregoing _________________ is a true, accurate and exact copy of the original of same as it remains of record on file in my office.</text>
+          <text>__________________</text>
+          <text>Clerk of the [District Court] [Supreme Court] THE CHICKASAW NATION</text>
+          <text>__________________</text>
+          <text>Date</text>
+        </include>
+        <text>Certified copies of records shall be admissible as evidence without further authentication in all judicial and administrative proceedings of the Chickasaw Nation.</text>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -9613,12 +9660,10 @@
           <num>1.</num>
           <text>An order of garnishment issued as an aid for the enforcement of a Judgment and for the purpose of attaching earnings of the defendant, is declared to be sufficient if substantially in the following form:</text>
           <include>
-            <attachment id="In-the-District-Court-of-the-Chickasaw-Nation,-A.B.,-Plaintiff-vs.-C.D.,-Defendant,-and-E.F.,-Garnishee.-The-Chickasaw-Nation-to-the-Garnishee:-You-are-hereby-ordered-as-a-garnishee-to-file-with-the-above-named-Court,-within-thirty-(30)-days-after-service-of-this-order-upon-you,-your-answer-under-oath-stating-whether-you-are-indebted-to-the-Defendant-by-reason-of-earnings-(compensation-for-personal-services,-whether-denominated-as-wages,-salary,-commission,-bonus-or-otherwise)-due-and-owing-the-Defendant-and-stating-the-amount-of-any-such-indebtedness.-Computation-of-the-amount-of-your-indebtedness-shall-be-made-as-prescribed-by-the-answer-form-served-herewith-and-shall-be-based-upon-Defendant's-earnings-for-the-entire-normal-pay-period-in-which-this-order-is-served-upon-you.-You-are-further-ordered-to-withhold-the-payment-of-that-portion-of-Defendant's-earnings-required-to-be-withheld-pursuant-to-the-directions-accompanying-the-answer-form-until-the-further-order-of-the-court.-Your-answer-on-the-form-shall-constitute-substantial-compliance-with-this-order.">
-              <heading>"In the District Court of the Chickasaw Nation, A.B., Plaintiff vs. C.D., Defendant, and E.F., Garnishee. The Chickasaw Nation to the Garnishee: You are hereby ordered as a garnishee to file with the above named Court, within thirty (30) days after service of this order upon you, your answer under oath stating whether you are indebted to the Defendant by reason of earnings (compensation for personal services, whether denominated as wages, salary, commission, bonus or otherwise) due and owing the Defendant and stating the amount of any such indebtedness. Computation of the amount of your indebtedness shall be made as prescribed by the answer form served herewith and shall be based upon Defendant's earnings for the entire normal pay period in which this order is served upon you. You are further ordered to withhold the payment of that portion of Defendant's earnings required to be withheld pursuant to the directions accompanying the answer form until the further order of the court. Your answer on the form shall constitute substantial compliance with this order.</heading>
-              <text>Failure to file your answer may entitle the Plaintiff to Judgment against you for the full amount of the Claim and costs.</text>
-              <text>Witness my hand and seal of the Court, this 	day of 	, .</text>
-              <text>___________________________________________ Clerk of the Court, Chickasaw Nation."</text>
-            </attachment>
+            <text>"In the District Court of the Chickasaw Nation, A.B., Plaintiff vs. C.D., Defendant, and E.F., Garnishee. The Chickasaw Nation to the Garnishee: You are hereby ordered as a garnishee to file with the above named Court, within thirty (30) days after service of this order upon you, your answer under oath stating whether you are indebted to the Defendant by reason of earnings (compensation for personal services, whether denominated as wages, salary, commission, bonus or otherwise) due and owing the Defendant and stating the amount of any such indebtedness. Computation of the amount of your indebtedness shall be made as prescribed by the answer form served herewith and shall be based upon Defendant's earnings for the entire normal pay period in which this order is served upon you. You are further ordered to withhold the payment of that portion of Defendant's earnings required to be withheld pursuant to the directions accompanying the answer form until the further order of the court. Your answer on the form shall constitute substantial compliance with this order.</text>
+            <text>Failure to file your answer may entitle the Plaintiff to Judgment against you for the full amount of the Claim and costs.</text>
+            <text>Witness my hand and seal of the Court, this ______ day of _________________, ____.</text>
+            <text>___________________________________________ Clerk of the Court, Chickasaw Nation."</text>
           </include>
           <para>
             <num>a.</num>
@@ -9649,83 +9694,81 @@
           <num>A.</num>
           <text>Within ten (10) days after service upon a garnishee of an order of garnishment issued for the purpose of attaching any earnings due and owing the defendant, the garnishee shall file an answer thereto with the Court, stating the facts with respect to the demands of the order. If the defendant is not employed by the garnishee or has terminated employment with the garnishee, the answer is not required to be verified.  Otherwise, the answer shall be verified. The answer of the garnishee is declared to be sufficient if substantially in the following form, but the garnishee's answer shall contain not less than the prescribed in the form:</text>
           <include>
-            <attachment id="ANSWER-OF-GARNISHEE">
-              <heading>ANSWER OF GARNISHEE</heading>
-              <text>The Defendant 	,</text>
-              <text>(check one:)</text>
-              <text>terminated employment 	, on 	, 	. or was never employed	.</text>
-              <text>____________________________________ Garnishee"</text>
-            </attachment>
+            <heading>"ANSWER OF GARNISHEE</heading>
+            <text>The Defendant ___________,</text>
+            <text>(check one:)</text>
+            <text>terminated employment _______________, on ____________, ___________.</text>
+            <text>or</text>
+            <text>was never employed __________.</text>
+            <text>____________________________________ Garnishee"</text>
           </include>
         </para>
         <para>
           <num>B.</num>
           <text>If one of the above applies, you are not required to complete the remainder of this form. You must return the form within the time prescribed in the order for garnishment. If neither of the above applies, you must complete the remainder of this form and have it verified.</text>
           <include>
-            <attachment id="CHICKASAW-NATION-DISTRICT-COURT">
-              <heading>CHICKASAW NATION DISTRICT COURT</heading>
-              <text>says that on the 	day of 	, , I was served with an order of garnishment in the above entitled action; that since being served with said order I have delivered to the employee 	only that portion of the said employee's earnings authorized to be delivered to the said employee pursuant to the instructions accompanying this form and that the statements in my answer are true and correct.</text>
-              <text>______________________________________ Garnishee</text>
-              <text class="center">
-                <strong>Instructions to Garnishee:</strong>
-              </text>
-              <text>The order of garnishment served upon you has the effect of attaching that portion of the defendant's earnings (defined as compensation for personal services, whether denominated as wages, salary, commission, bonus or otherwise) which is not exempt from wage garnishment. This form is provided for your convenience in furnishing the answer required of you in the order. It is designed so that you may prepare your answer in conjunction with the preparation of your payroll. Wait until the end of the normal pay period in which this order has been served upon you and apply the tests set forth in these instructions to the entire earnings of the defendant-employee during the pay period, completing your answer in accordance with these instructions. If you do not choose to use this form, your answer, under oath, shall not contain less than that prescribed herein. Your answer must be filed with the above named Court within the time prescribed in the order of the garnishment.</text>
-              <text>First, furnish the information required by Paragraphs A through F of the form below.</text>
-              <text>Read carefully the "Note to Garnishee" following Paragraph G. Then, if the total amount of the employee's disposable earnings are not exempt from wage garnishment pursuant to Section 5-214.48, complete Paragraph G of the form by computing the amount of employee's disposable earnings which are to be paid over to the employee. Any disposable earnings remaining after payment of the above amounts shall be retained until further order of the Court.</text>
-              <text class="center">
-                <strong>
-                  <u>STATEMENT OF GARNISHMENT</u>
-                </strong>
-              </text>
+            <heading>CHICKASAW NATION DISTRICT COURT</heading>
+            <text>_______________________ says that on the ______ day of _________________, ____, I was served with an order of garnishment in the above entitled action; that since being served with said order I have delivered to the employee _______________________ only that portion of the said employee's earnings authorized to be delivered to the said employee pursuant to the instructions accompanying this form and that the statements in my answer are true and correct.</text>
+            <text>______________________________________ Garnishee</text>
+            <text class="center">
+              <strong>Instructions to Garnishee:</strong>
+            </text>
+            <text>The order of garnishment served upon you has the effect of attaching that portion of the defendant's earnings (defined as compensation for personal services, whether denominated as wages, salary, commission, bonus or otherwise) which is not exempt from wage garnishment. This form is provided for your convenience in furnishing the answer required of you in the order. It is designed so that you may prepare your answer in conjunction with the preparation of your payroll. Wait until the end of the normal pay period in which this order has been served upon you and apply the tests set forth in these instructions to the entire earnings of the defendant-employee during the pay period, completing your answer in accordance with these instructions. If you do not choose to use this form, your answer, under oath, shall not contain less than that prescribed herein. Your answer must be filed with the above named Court within the time prescribed in the order of the garnishment.</text>
+            <text>First, furnish the information required by Paragraphs A through F of the form below.</text>
+            <text>Read carefully the "Note to Garnishee" following Paragraph G. Then, if the total amount of the employee's disposable earnings are not exempt from wage garnishment pursuant to Section 5-214.48, complete Paragraph G of the form by computing the amount of employee's disposable earnings which are to be paid over to the employee. Any disposable earnings remaining after payment of the above amounts shall be retained until further order of the Court.</text>
+            <text class="center">
+              <strong>
+                <u>STATEMENT OF GARNISHMENT</u>
+              </strong>
+            </text>
+            <para>
+              <num>A.</num>
+              <text>The normal pay period for employee is weekly ______; every two weeks ______; semi-monthly ______; monthly ______. (designate one).</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>This answer covers earnings for the normal pay period beginning on the 	 day of ______, ______, which normal pay period includes the day on which the order of garnishment was served upon me.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Total gross earnings due for the normal pay period covered by B above are $______.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Average gross earnings for normal pay period as designated in A. above are $______.</text>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Amounts required by law to be withheld for the normal pay period covered by B above are:</text>
               <para>
-                <num>A.</num>
-                <text>The normal pay period for employee is weekly 	; every two weeks 	; semi-monthly 		; monthly 	. (designate one).</text>
+                <num>1.</num>
+                <text>Federal social security tax	$______.</text>
               </para>
               <para>
-                <num>B.</num>
-                <text>This answer covers earnings for the normal pay period beginning on the 	 day of 		, 	, which normal pay period includes the day on which the order of garnishment was served upon me.</text>
+                <num>2.</num>
+                <text>Federal income tax	$______.</text>
               </para>
               <para>
-                <num>C.</num>
-                <text>Total gross earnings due for the normal pay period covered by B above are $	.</text>
+                <num>3.</num>
+                <text>State income tax.	$______.</text>
               </para>
               <para>
-                <num>D.</num>
-                <text>Average gross earnings for normal pay period as designated in A. above are $	.</text>
+                <num>4.</num>
+                <text>Other withholding tax.	$______.</text>
+                <text>Total	$______.</text>
+                <text>(Deduct only those items listed above)</text>
               </para>
-              <para>
-                <num>E.</num>
-                <text>Amounts required by law to be withheld for the normal pay period covered by B above are:</text>
-                <para>
-                  <num>1.</num>
-                  <text>Federal social security tax	$	.</text>
-                </para>
-                <para>
-                  <num>2.</num>
-                  <text>Federal income tax	$	.</text>
-                </para>
-                <para>
-                  <num>3.</num>
-                  <text>State income tax.	$	.</text>
-                </para>
-                <para>
-                  <num>4.</num>
-                  <text>Other withholding tax.	$	.</text>
-                  <text>Total	$	.</text>
-                  <text>(Deduct only those items listed above)</text>
-                </para>
-              </para>
-              <para>
-                <num>F.</num>
-                <text>In accordance with the instructions accompanying this answer form, I have determined that the amount which may be paid to employee is $	.</text>
-              </para>
-              <para>
-                <num>G.</num>
-                <text>After paying to employee the amount stated in F above, I am holding the remainder of employees's disposable earnings in the amount of $	.</text>
-                <text>I will hold in my possession until further order of the Court all of the moneys required to be withheld.</text>
-              </para>
-              <text>___________________________________ Garnishee"</text>
-            </attachment>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>In accordance with the instructions accompanying this answer form, I have determined that the amount which may be paid to employee is $______.</text>
+            </para>
+            <para>
+              <num>G.</num>
+              <text>After paying to employee the amount stated in F above, I am holding the remainder of employees's disposable earnings in the amount of $______.</text>
+              <text>I will hold in my possession until further order of the Court all of the moneys required to be withheld.</text>
+            </para>
+            <text>___________________________________ Garnishee"</text>
           </include>
           <text>Answer of the garnishee must be filed with Court pursuant to this Act. This form is provided for your convenience in furnishing the answer required of you in the order of garnishment. If you do not choose to use this form, your answer shall not contain less than that prescribed herein. Your answer must be filed with the Court within the time prescribed in the order of garnishment.</text>
         </para>
@@ -11205,14 +11248,20 @@
           <num>E.</num>
           <text>The application for a court-appointed attorney shall be in substantially the following form:</text>
           <include>
-            <attachment id="APPLICATION-FOR-COURT-APPOINTED-ATTORNEY-AND-AFFIDAVIT-OF-INDIGENCE">
-              <heading>APPLICATION FOR COURT-APPOINTED ATTORNEY AND AFFIDAVIT OF INDIGENCE</heading>
-              <text>Defendant's Name:							 Address:						Phone:	 Date of Birth:			Did you post bond?  Yes  No Bond Amount:$    Marital Status:	Spouse's Name:			Number of dependents:  Employer:				Length of time at job:	 Average Monthly Income:$			Additional Income:$	 Spouse's Employer:				Length of time at job:	 Average Monthly Income:$			Additional Income:$	 Are you a student?  Yes  No  If yes, what institution:			 List monthly expenses:	Rent/Mortgage:$			Utilities:$	 Car Payment:$			Insurance:$			Gas:$	 Groceries:$		Healthcare:$		Other:$		 Circle if you receive: Government Assistance – Unemployment - Social Security - VA How much do you receive per month for each?$			 Do you have a checking account? Yes No If yes, how much is in the account:$	 Do you have a savings account? Yes  No If yes, how much is in the account:$	 Do you own a car?  Yes  No  Make:	Model:	Value:$	 Do you own any other property with a value of more than $500, real or personal?  Yes  No If yes, list such property and its value:	 Do you have any friends or family that are willing and able to aid you in payment of attorney fees?	Yes	No</text>
-              <text>I swear and affirm under penalty of perjury that I am without funds or other resources of income to pay an attorney and/or to pay costs associated with this case. I have read and understand the above statement and understand that if it is knowingly false, then a charge of perjury could be filed against me.</text>
-              <text>Defendant's signature:	Date:</text>
-              <text>This application is hereby: □ APPROVED □ DENIED, by:</text>
-              <text>Judge's signature:	Date:</text>
-            </attachment>
+            <heading>APPLICATION FOR COURT-APPOINTED ATTORNEY AND AFFIDAVIT OF INDIGENCE</heading>
+            <text>Defendant's Name: ____________________ Address: ____________________Phone:	 ____________________ Date of Birth: ____________________ Did you post bond?  Yes  No Bond Amount:$_____ Marital Status: ____________________ Spouse's Name: ____________________ Number of dependents: ____________________ Employer: ____________________ Length of time at job: ____________________ Average Monthly Income:$_______________ Additional Income:$_______________ Spouse's Employer: ____________________ Length of time at job: ____________________ Average Monthly Income:$_______________ Additional Income:$_______________ Are you a student?  Yes  No  If yes, what institution: ____________________ List monthly expenses: ____________________ Rent/Mortgage:$_______________ Utilities:$________________ Car Payment:$________________ Insurance:$_______________ Gas:$_______________ Groceries:$________________		Healthcare:$_______________		Other:$________________	 Circle if you receive: Government Assistance – Unemployment - Social Security - VA How much do you receive per month for each? $________________ Do you have a checking account? Yes No If yes, how much is in the account:$________________	 Do you have a savings account? Yes  No If yes, how much is in the account:$____________________	 Do you own a car?  Yes  No  Make:____________________	Model:____________________	Value:$________________	 Do you own any other property with a value of more than $500, real or personal?  Yes  No If yes, list such property and its value:____________________	 Do you have any friends or family that are willing and able to aid you in payment of attorney fees?	Yes	No</text>
+            <text>I swear and affirm under penalty of perjury that I am without funds or other resources of income to pay an attorney and/or to pay costs associated with this case. I have read and understand the above statement and understand that if it is knowingly false, then a charge of perjury could be filed against me.</text>
+            <text>Defendant's signature: ____________________ Date:____________________</text>
+            <text>This application is hereby: □ APPROVED □ DENIED, by:</text>
+            <text>Judge's signature: ____________________	Date:____________________</text>
+          </include>
+          <include>
+            <heading>APPLICATION FOR COURT-APPOINTED ATTORNEY AND AFFIDAVIT OF INDIGENCE</heading>
+            <text>Defendant's Name:________________	Address:________________ Phone: ________________ Date of Birth: ________________ Did you post bond?  Yes  No Bond Amount:$____________    Marital Status:________________	Spouse's Name: ________________ Number of dependents: ________________ Employer: ________________ Length of time at job: ________________ Average Monthly Income:$____________			Additional Income:$____________	 Spouse's Employer: ________________ Length of time at job:________________	 Average Monthly Income:$________________ Additional Income:$________________ Are you a student?  Yes  No  If yes, what institution:________________ List monthly expenses: ________________ Rent/Mortgage:$____________ Utilities:$____________ Car Payment:$_____________ Insurance:$____________ Gas:$____________ Groceries:$____________		Healthcare:$____________ Other:$____________ Circle if you receive: Government Assistance – Unemployment - Social Security - VA How much do you receive per month for each?$________________ Do you have a checking account? Yes No If yes, how much is in the account:$________________ Do you have a savings account? Yes  No If yes, how much is in the account:$________________ Do you own a car?  Yes  No  Make:	Model:	Value:$________________ Do you own any other property with a value of more than $500, real or personal?  Yes  No If yes, list such property and its value:________________ Do you have any friends or family that are willing and able to aid you in payment of attorney fees?	Yes	No</text>
+            <text>I swear and affirm under penalty of perjury that I am without funds or other resources of income to pay an attorney and/or to pay costs associated with this case. I have read and understand the above statement and understand that if it is knowingly false, then a charge of perjury could be filed against me.</text>
+            <text>Defendant's signature: ____________________	Date:____________________</text>
+            <text>This application is hereby: □ APPROVED □ DENIED, by:</text>
+            <text>Judge's signature: ____________________	Date:____________________</text>
           </include>
         </para>
       </section>

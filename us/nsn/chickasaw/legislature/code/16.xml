@@ -1810,15 +1810,16 @@
     </section>
   </container>
   <attachments>
-    <attachment id="APPENDIX-A--EXAMPLE-OF-STYLE-AND-FORM-OF-IMPEACHMENT-PETITION:">
-      <heading>APPENDIX "A"  EXAMPLE OF STYLE AND FORM OF IMPEACHMENT PETITION:</heading>
+    <attachment id="APPENDIX-A">
+      <heading>APPENDIX "A"</heading>
+      <text><strong>EXAMPLE OF STYLE AND FORM OF IMPEACHMENT PETITION:</strong></text>
       <text><strong>WARNING</strong> It is a felony for anyone to sign this petition with any name other than his own, or knowingly to sign his name more than once for the measure, or to sign such petition when he is not a legal voter of the Chickasaw Nation, residing within the legislative district shown below. It is unlawful for anyone to sign this petition if he is not a registered resident voter of the geographical area of the Chickasaw Nation and of the legislative district shown below.</text>
       <text><strong>PETITION</strong> TO THE TRIBAL COURT OF THE CHICKASAW NATION:</text>
       <text>
-        <strong>We the undersigned citizens and legal resident voters of the Chickasaw Nation, of the 	 Legislative District, respectfully submit the following petition seeking the impeachment of the Elected Official named below, for the approval or rejection of the Court, and each for himself says: I have personally signed this petition; I am a legal resident voter of the Chickasaw Nation and of the legislative district written above; my residence and post office are correctly written after my name.</strong>
+        <strong>We the undersigned citizens and legal resident voters of the Chickasaw Nation, of the ___________ Legislative District, respectfully submit the following petition seeking the impeachment of the Elected Official named below, for the approval or rejection of the Court, and each for himself says: I have personally signed this petition; I am a legal resident voter of the Chickasaw Nation and of the legislative district written above; my residence and post office are correctly written after my name.</strong>
       </text>
-      <text><strong>Petition for the Impeachment of</strong> Seeking the impeachment of the above-named Elected Official of the Chickasaw Nation for the following charge(s):</text>
-      <text><strong>This is a petition seeking the impeachment of</strong> INSTRUCTIONS TO CIRCULATE: Read the affidavit on page 3 and observe its requirements. Names shall and must be signed the same way the voter is registered; husband may not sign wife's name (and vice versa); circulators must witness all signatures; signatures only shall be placed on page 2, not on page 3. When all signatures have been obtained, type or print names in affidavit form provided on page 3, and sign your name and list your address (resident or post office address; not business office building) before a notary public. Have notary affix seal and signature; all signers must list residence address (do not permit ditto" marks). Use street addresses; strikeouts and markthroughs must be initialed by the voter making the change; no more than 20 signatures to a petition. Do not leave petition unattended. No person under the age of 18 years may sign the petition.</text>
+      <text><strong>Petition for the Impeachment of ____________________</strong> Seeking the impeachment of the above-named Elected Official of the Chickasaw Nation for the following charge(s):</text>
+      <text><strong>This is a petition seeking the impeachment of</strong></text>
       <text>
         <table>
           <tbody>
@@ -1951,58 +1952,74 @@
           </tbody>
         </table>
       </text>
+      <text>INSTRUCTIONS TO CIRCULATE: Read the affidavit on page 3 and observe its requirements. Names shall and must be signed the same way the voter is registered; husband may not sign wife's name (and vice versa); circulators must witness all signatures; signatures only shall be placed on page 2, not on page 3. When all signatures have been obtained, type or print names in affidavit form provided on page 3, and sign your name and list your address (resident or post office address; not business office building) before a notary public. Have notary affix seal and signature; all signers must list residence address (do not permit ditto" marks). Use street addresses; strikeouts and markthroughs must be initialed by the voter making the change; no more than 20 signatures to a petition. Do not leave petition unattended. No person under the age of 18 years may sign the petition.</text>
       <text>
         <strong>AFFIDAVIT</strong>
       </text>
-      <text>I,	, being first duly sworn, say: That I am a qualified elector of the 		 Legislative District of the Chickasaw Nation and that</text>
-      <para>
-        <num>1.</num>
-        <heading>11.</heading>
-      </para>
-      <para>
-        <num>2.</num>
-        <heading>12.</heading>
-      </para>
-      <para>
-        <num>3.</num>
-        <heading>13.</heading>
-      </para>
-      <para>
-        <num>4.</num>
-        <heading>14.</heading>
-      </para>
-      <para>
-        <num>5.</num>
-        <heading>15.</heading>
-      </para>
-      <para>
-        <num>6.</num>
-        <heading>16.</heading>
-      </para>
-      <para>
-        <num>7.</num>
-        <heading>17.</heading>
-      </para>
-      <para>
-        <num>8.</num>
-        <heading>18.</heading>
-      </para>
-      <para>
-        <num>9.</num>
-        <heading>19.</heading>
-      </para>
-      <para>
-        <num>10.</num>
-        <heading>20.</heading>
-        <text>signed this sheet of the foregoing petition, and each of them signed his/her name thereto in my presence; I believe that each has stated his/her name, post office address and residence correctly, and that each signer is a legal voter of the Chickasaw Nation and of the Legislative District indicated above.</text>
-        <text>_____________________________________ Petition 's Name ____________________________________ Rural Route or Street Name ____________________________________ City or Town</text>
-        <text>Subscribed and sworn to before me this 	 day of 	, 20	.</text>
-        <text>____________________________________ Notary Public ____________________________________ Notary Address</text>
-        <text>My Commission Expires on 	, 20	.</text>
-      </para>
+      <text>I, ____________________, being first duly sworn, say: That I am a qualified elector of the ____________________ Legislative District of the Chickasaw Nation and that</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td>1.____________________</td>
+              <td>11.____________________</td>
+            </tr>
+            <tr>
+              <td>2.____________________</td>
+              <td>12.____________________</td>
+            </tr>
+            <tr>
+              <td>3.____________________</td>
+              <td>13.____________________</td>
+            </tr>
+            <tr>
+              <td>4.____________________</td>
+              <td>14.____________________</td>
+            </tr>
+            <tr>
+              <td>5.____________________</td>
+              <td>15.____________________</td>
+            </tr>
+            <tr>
+              <td>6.____________________</td>
+              <td>16.____________________</td>
+            </tr>
+            <tr>
+              <td>7.____________________</td>
+              <td>17.____________________</td>
+            </tr>
+            <tr>
+              <td>8.____________________</td>
+              <td>18.____________________</td>
+            </tr>
+            <tr>
+              <td>9.____________________</td>
+              <td>19.____________________</td>
+            </tr>
+            <tr>
+              <td>10.____________________</td>
+              <td>20.____________________</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>signed this sheet of the foregoing petition, and each of them signed his/her name thereto in my presence; I believe that each has stated his/her name, post office address and residence correctly, and that each signer is a legal voter of the Chickasaw Nation and of the Legislative District indicated above.</text>
+      <text>_____________________________________</text>
+      <text>Petition 's Name</text>
+      <text>_____________________________________</text>
+      <text>Rural Route or Street Name</text>
+      <text>_____________________________________</text>
+      <text>City or Town</text>
+      <text>Subscribed and sworn to before me this ____________ day of _____________, 20__.</text>
+      <text>_____________________________________</text>
+      <text>Notary Public</text>
+      <text>_____________________________________</text>
+      <text>Notary Address</text>
+      <text>My Commission Expires on ________, 20__.</text>
     </attachment>
-    <attachment id="APPENDIX-B--IN-THE-NAME-OF-THE-CHICKASAW-NATION">
-      <heading>APPENDIX "B"  IN THE NAME OF THE CHICKASAW NATION</heading>
+    <attachment id="APPENDIX-B">
+      <heading>APPENDIX "B"</heading>
+      <text>IN THE NAME OF THE CHICKASAW NATION</text>
       <text>
         <table class="layout-table">
           <tbody>
@@ -2034,25 +2051,51 @@
           </tbody>
         </table>
       </text>
-      <text><strong>S U B P O E N A</strong> To:	(stating name and address of person, etc. being subpoenaed)</text>
-      <text>Greetings:	You are commanded to appear before the Chickasaw Tribal Legislature on the.(stating day and hour), and remain in attendance on and call of said.</text>
+      <text><strong>S U B P O E N A</strong></text>
+      <text>To:	(stating name and address of person, etc. being subpoenaed)</text>
+      <text>Greetings: You are commanded to appear before the Chickasaw Tribal Legislature on the.(stating day and hour), and remain in attendance on and call of said.</text>
       <text>from day to day and term to term until lawfully discharged, as a witness in an impeachment hearing prosecuted by the Chickasaw Nation against.(stating name of Elected Official).</text>
       <text>Hereof fail not, under penalty of law.</text>
-      <text><strong>IN WITNESS WHEREOF, </strong>I have hereunto set my hand this 	day of 	, 20	.</text>
-      <text>(Name and title of Legislature officer)</text>
+      <text><strong>IN WITNESS WHEREOF, </strong>I have hereunto set my hand this ______ day of ______, 20__.</text>
+      <text>(Name and title of Legislature officer)____________________</text>
     </attachment>
-    <attachment id="APPENDIX-C--CHICKASAW-TRIBAL-LEGISLATURE--General-Resolution-Number-00-00">
-      <heading>APPENDIX "C"  CHICKASAW TRIBAL LEGISLATURE  General Resolution Number 00-00</heading>
+    <attachment id="APPENDIX-C">
+      <heading>APPENDIX "C"</heading>
+      <text><strong>CHICKASAW TRIBAL LEGISLATURE</strong></text>
+      <text><strong>General Resolution Number 00-00</strong></text>
       <text><strong>WHEREAS,</strong> in accordance with Article VII, Sections 4 and 7 of the Constitution of the Chickasaw Nation, the Chickasaw Tribal Legislature shall enact rules and regulations pertaining to the Chickasaw Nation, and shall make decisions pertaining to the acquisition, leasing, disposition and management of real property, subject to federal law, and</text>
       <text><strong>WHEREAS,</strong> in accordance with Article XI, Section 1 of the Constitution of the Chickasaw Nation, the Governor shall perform all duties appertaining to the office of Chief Executive. He shall sign official papers on behalf of the Nation, and</text>
       <text>
         <strong>WHEREAS,</strong>
       </text>
       <text><strong>NOW, THEREFORE, BE IT RESOLVED,</strong> that the Chickasaw Tribal Legislature hereby authorizes and approves the</text>
-      <text>Executed in regular session of the Chickasaw Tribal Legislature, meeting at Ada, Oklahoma, on , 20  , by a vote of 	 ayes, 	 nays, 	 abstentions.</text>
-      <text>____________________________________________________________________________ Chairperson	Secretary Chickasaw Tribal Legislature	Chickasaw Tribal Legislature</text>
-      <text>Concur: 		Date:</text>
-      <text>, Governor The Chickasaw Nation</text>
+      <text>Executed in regular session of the Chickasaw Tribal Legislature, meeting at Ada, Oklahoma, on ____________________, 20__, by a vote of __ ayes, __ nays, __ abstentions.</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td>____________________</td>
+              <td>____________________</td>
+            </tr>
+            <tr>
+              <td>Chairperson</td>
+              <td>Secretary</td>
+            </tr>
+            <tr>
+              <td>Chickasaw Tribal Legislature</td>
+              <td>Chickasaw Tribal Legislature</td>
+            </tr>
+            <tr>
+              <td>Concur:____________________</td>
+              <td>Date:____________________</td>
+            </tr>
+            <tr>
+              <td>____________________, Governor The Chickasaw Nation</td>
+              <td/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
     </attachment>
   </attachments>
 </container>
