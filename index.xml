@@ -56,5 +56,10 @@
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/bills/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
     <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
+    <annotations>
+      <annotation type="Editor's Notes">
+        <text><em>Any incomplete or unavailable historical source record is an archival matter and does not impair the validity of the codified law.</em></text>
+      </annotation>
+    </annotations>
   </collection>
 </library>
