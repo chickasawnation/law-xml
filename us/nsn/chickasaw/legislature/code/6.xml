@@ -8702,7 +8702,11 @@
               </tbody>
             </table>
           </text>
-          <text class="center"><strong><u>DELINQUENT CHILD PETITION</u></strong></text>
+          <text class="center">
+            <strong>
+              <u>DELINQUENT CHILD PETITION</u>
+            </strong>
+          </text>
         </include>
       </section>
       <section>
@@ -12706,84 +12710,84 @@
         <num>B.</num>
         <text>The report shall be substantially in the following form:</text>
         <include>
-            <heading>"Report on the Guardianship of a Person</heading>
-            <text>I, (Name) the (Guardian/Limited Guardian of the Person) for (Name) , an (Incapacitated/Partially Incapacitated) Person hereby submit this (annual, court-ordered) Guardianship Report.</text>
-            <para>
-              <num>1.</num>
-              <text>The present place of abode of the Ward is:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>The type of home or facility in which the Ward lives is _______________________ and the name of the Person in charge of the home or facility is _______________________.</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>My present street address and telephone number is:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>During the last year, I have seen the Ward ___ times. I otherwise or also have become or remained familiar with the needs and care of the Ward as follows:</text>
-              <text>___________________________________________.</text>
-              <text>The nature of my visits to the Ward have been:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>The following services are currently being provided to the Ward:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>6.</num>
-              <text>These services (are, are not) provided for in the current Guardianship Plan. The reason they are not shown in the current Guardianship Plan is:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>7.</num>
-              <text>The Ward was last seen by a physician on: _______________________, _______. The purpose of the visit was:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>8.</num>
-              <text>I (have, have not) observed any major change in the Ward's physical or mental condition during the last year. (If so,) these are my observations:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>9.</num>
-              <text>I (have, have not) taken any significant action for or on behalf of the Ward since the last time I submitted a Guardianship Report. (If so,) I took the following actions:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>10.</num>
-              <text>There (have, have not) been any significant problems relating to the Ward or to my Guardianship of the Ward since the last time I submitted a Guardianship Report or, if this is an initial report, since the issuance of my Letters. (If so,) I have observed these problems:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>11.</num>
-              <text>It is my opinion that the Guardianship (should, should not) be continued. (If so,) the basis for my belief is as follows:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>12.</num>
-              <text>I believe the Ward (would, would not) be able to manage essential requirements for physical health and safety with fewer restrictions on the Ward's ability to act for himself or herself. (If so,) the basis for my belief is as follows:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>13.</num>
-              <text>My opinion of the present care being provided to the Ward is as follows:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <para>
-              <num>14.</num>
-              <text>The place of abode of the Ward (has, has not) changed since the last Guardianship Report. (If so,) the place of abode of the Ward was changed for the following reasons:</text>
-              <text>___________________________________________.</text>
-            </para>
-            <text>I hereby swear that the answers set forth above are true and correct to the best knowledge and belief of the undersigned, subject to the penalties of making a false affidavit or declaration.</text>
-            <text>Date: _______________________, _______</text>
-            <text>___________________________________________</text>
-            <text>(Signature of Guardian or Limited Guardian)</text>
-            <text>Telephone: _______________________"</text>
+          <heading>"Report on the Guardianship of a Person</heading>
+          <text>I, (Name) the (Guardian/Limited Guardian of the Person) for (Name) , an (Incapacitated/Partially Incapacitated) Person hereby submit this (annual, court-ordered) Guardianship Report.</text>
+          <para>
+            <num>1.</num>
+            <text>The present place of abode of the Ward is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The type of home or facility in which the Ward lives is _______________________ and the name of the Person in charge of the home or facility is _______________________.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>My present street address and telephone number is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>During the last year, I have seen the Ward ___ times. I otherwise or also have become or remained familiar with the needs and care of the Ward as follows:</text>
+            <text>___________________________________________.</text>
+            <text>The nature of my visits to the Ward have been:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The following services are currently being provided to the Ward:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>These services (are, are not) provided for in the current Guardianship Plan. The reason they are not shown in the current Guardianship Plan is:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>The Ward was last seen by a physician on: _______________________, _______. The purpose of the visit was:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>I (have, have not) observed any major change in the Ward's physical or mental condition during the last year. (If so,) these are my observations:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>I (have, have not) taken any significant action for or on behalf of the Ward since the last time I submitted a Guardianship Report. (If so,) I took the following actions:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>10.</num>
+            <text>There (have, have not) been any significant problems relating to the Ward or to my Guardianship of the Ward since the last time I submitted a Guardianship Report or, if this is an initial report, since the issuance of my Letters. (If so,) I have observed these problems:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>11.</num>
+            <text>It is my opinion that the Guardianship (should, should not) be continued. (If so,) the basis for my belief is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>12.</num>
+            <text>I believe the Ward (would, would not) be able to manage essential requirements for physical health and safety with fewer restrictions on the Ward's ability to act for himself or herself. (If so,) the basis for my belief is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>13.</num>
+            <text>My opinion of the present care being provided to the Ward is as follows:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <para>
+            <num>14.</num>
+            <text>The place of abode of the Ward (has, has not) changed since the last Guardianship Report. (If so,) the place of abode of the Ward was changed for the following reasons:</text>
+            <text>___________________________________________.</text>
+          </para>
+          <text>I hereby swear that the answers set forth above are true and correct to the best knowledge and belief of the undersigned, subject to the penalties of making a false affidavit or declaration.</text>
+          <text>Date: _______________________, _______</text>
+          <text>___________________________________________</text>
+          <text>(Signature of Guardian or Limited Guardian)</text>
+          <text>Telephone: _______________________"</text>
         </include>
       </para>
       <para>

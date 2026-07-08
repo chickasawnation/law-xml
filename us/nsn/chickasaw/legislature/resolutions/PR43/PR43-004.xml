@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-004" codify:doc="Chickasaw Nation Code">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-004" codify:doc="Chickasaw Nation Code">
   <num>PR43-004</num>
   <heading>Amendments to Title 5, Chapter 1, Appendix A of the Chickasaw Nation Code (Rules of Professional Conduct for Attorneys)</heading>
   <meta>
@@ -14,57 +14,57 @@
   </meta>
   <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A.">
     <para>
-        <num>A.</num>
-        <text>In the construction of this Act, the following rules of construction and definitions shall be observed unless inconsistent with the manifest intent of the Legislature or the context clearly requires otherwise:</text>
-        <para>
-          <num>1.</num>
-          <text>"Belief" or "Believes" denotes that the person involved actually supposed the fact in question to be true. A person's Belief may be inferred from circumstances.</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>"Consult" or "Consultation" denotes communication of information Reasonably sufficient to permit the client to appreciate the significance of the matter in question.</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>"Firm" or "Law Firm" denotes a lawyer or lawyers in a private Firm, lawyers employed in the legal department of a corporation or other organization and lawyers employed in a legal services organization.</text>
-        </para>
-        <para>
-          <num>4.</num>
-          <text>"Fraud" or "Fraudulent" denotes conduct having a purpose to deceive and not merely negligent misrepresentation or failure to apprise another of relevant information.</text>
-        </para>
-        <para>
-          <num>5.</num>
-          <text>"Knowingly," "Known," or "Knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.</text>
-        </para>
-        <para>
-          <num>6.</num>
-          <text>"Office of Tribal Justice Administration" is the Chickasaw Nation Executive Department office charged with enforcement, application, and supervision of the Chickasaw Nation criminal laws and houses the Office of the Chickasaw Nation Prosecutor created in Section 5-202.34 of the Chickasaw Nation Code.</text>
-        </para>
-        <para>
-          <num>7.</num>
-          <text>"Office of the Chickasaw Nation Public Defender" is the office created by Section 5-202.36 of the Chickasaw Nation Code.</text>
-        </para>
-        <para>
-          <num>8.</num>
-          <text>"Partner" denotes a member of a partnership and a shareholder in a Law Firm organized as a professional corporation.</text>
-        </para>
-        <para>
-          <num>9.</num>
-          <text>"Reasonable" or "Reasonably," when used in relation to conduct by a lawyer, denotes the conduct of a Reasonably prudent and competent lawyer.</text>
-        </para>
-        <para>
-          <num>10.</num>
-          <text>"Reasonable Belief" or "Reasonably Believes," when used in reference to a lawyer, denotes that the lawyer Believes the matter in question and that the circumstances are such that the Belief is Reasonable.</text>
-        </para>
-        <para>
-          <num>11.</num>
-          <text>"Reasonably Should Know," when used in reference to a lawyer, denotes that a lawyer of Reasonable prudence and competence would ascertain the matter in question.</text>
-        </para>
-        <para>
-          <num>12.</num>
-          <text>"Substantial," when used in reference to degree or extent, denotes a material matter of clear and weighty importance.</text>
-        </para>
+      <num>A.</num>
+      <text>In the construction of this Act, the following rules of construction and definitions shall be observed unless inconsistent with the manifest intent of the Legislature or the context clearly requires otherwise:</text>
+      <para>
+        <num>1.</num>
+        <text>"Belief" or "Believes" denotes that the person involved actually supposed the fact in question to be true. A person's Belief may be inferred from circumstances.</text>
       </para>
+      <para>
+        <num>2.</num>
+        <text>"Consult" or "Consultation" denotes communication of information Reasonably sufficient to permit the client to appreciate the significance of the matter in question.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Firm" or "Law Firm" denotes a lawyer or lawyers in a private Firm, lawyers employed in the legal department of a corporation or other organization and lawyers employed in a legal services organization.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Fraud" or "Fraudulent" denotes conduct having a purpose to deceive and not merely negligent misrepresentation or failure to apprise another of relevant information.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Knowingly," "Known," or "Knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Office of Tribal Justice Administration" is the Chickasaw Nation Executive Department office charged with enforcement, application, and supervision of the Chickasaw Nation criminal laws and houses the Office of the Chickasaw Nation Prosecutor created in Section 5-202.34 of the Chickasaw Nation Code.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Office of the Chickasaw Nation Public Defender" is the office created by Section 5-202.36 of the Chickasaw Nation Code.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Partner" denotes a member of a partnership and a shareholder in a Law Firm organized as a professional corporation.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Reasonable" or "Reasonably," when used in relation to conduct by a lawyer, denotes the conduct of a Reasonably prudent and competent lawyer.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Reasonable Belief" or "Reasonably Believes," when used in reference to a lawyer, denotes that the lawyer Believes the matter in question and that the circumstances are such that the Belief is Reasonable.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Reasonably Should Know," when used in reference to a lawyer, denotes that a lawyer of Reasonable prudence and competence would ascertain the matter in question.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Substantial," when used in reference to degree or extent, denotes a material matter of clear and weighty importance.</text>
+      </para>
+    </para>
   </codify:replace>
   <codify:insert path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5">
     <para>

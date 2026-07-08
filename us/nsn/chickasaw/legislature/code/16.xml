@@ -1784,14 +1784,18 @@
   <attachments>
     <attachment id="APPENDIX-A">
       <heading>APPENDIX "A"</heading>
-      <text><strong>EXAMPLE OF STYLE AND FORM OF IMPEACHMENT PETITION:</strong></text>
+      <text>
+        <strong>EXAMPLE OF STYLE AND FORM OF IMPEACHMENT PETITION:</strong>
+      </text>
       <text><strong>WARNING</strong> It is a felony for anyone to sign this petition with any name other than his own, or knowingly to sign his name more than once for the measure, or to sign such petition when he is not a legal voter of the Chickasaw Nation, residing within the legislative district shown below. It is unlawful for anyone to sign this petition if he is not a registered resident voter of the geographical area of the Chickasaw Nation and of the legislative district shown below.</text>
       <text><strong>PETITION</strong> TO THE TRIBAL COURT OF THE CHICKASAW NATION:</text>
       <text>
         <strong>We the undersigned citizens and legal resident voters of the Chickasaw Nation, of the ___________ Legislative District, respectfully submit the following petition seeking the impeachment of the Elected Official named below, for the approval or rejection of the Court, and each for himself says: I have personally signed this petition; I am a legal resident voter of the Chickasaw Nation and of the legislative district written above; my residence and post office are correctly written after my name.</strong>
       </text>
       <text><strong>Petition for the Impeachment of ____________________</strong> Seeking the impeachment of the above-named Elected Official of the Chickasaw Nation for the following charge(s):</text>
-      <text><strong>This is a petition seeking the impeachment of</strong></text>
+      <text>
+        <strong>This is a petition seeking the impeachment of</strong>
+      </text>
       <text>
         <table>
           <tbody>
@@ -2023,7 +2027,9 @@
           </tbody>
         </table>
       </text>
-      <text><strong>S U B P O E N A</strong></text>
+      <text>
+        <strong>S U B P O E N A</strong>
+      </text>
       <text>To:	(stating name and address of person, etc. being subpoenaed)</text>
       <text>Greetings: You are commanded to appear before the Chickasaw Tribal Legislature on the.(stating day and hour), and remain in attendance on and call of said.</text>
       <text>from day to day and term to term until lawfully discharged, as a witness in an impeachment hearing prosecuted by the Chickasaw Nation against.(stating name of Elected Official).</text>
@@ -2033,8 +2039,12 @@
     </attachment>
     <attachment id="APPENDIX-C">
       <heading>APPENDIX "C"</heading>
-      <text><strong>CHICKASAW TRIBAL LEGISLATURE</strong></text>
-      <text><strong>General Resolution Number 00-00</strong></text>
+      <text>
+        <strong>CHICKASAW TRIBAL LEGISLATURE</strong>
+      </text>
+      <text>
+        <strong>General Resolution Number 00-00</strong>
+      </text>
       <text><strong>WHEREAS,</strong> in accordance with Article VII, Sections 4 and 7 of the Constitution of the Chickasaw Nation, the Chickasaw Tribal Legislature shall enact rules and regulations pertaining to the Chickasaw Nation, and shall make decisions pertaining to the acquisition, leasing, disposition and management of real property, subject to federal law, and</text>
       <text><strong>WHEREAS,</strong> in accordance with Article XI, Section 1 of the Constitution of the Chickasaw Nation, the Governor shall perform all duties appertaining to the office of Chief Executive. He shall sign official papers on behalf of the Nation, and</text>
       <text>
