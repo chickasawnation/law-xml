@@ -5,6 +5,7 @@
     <effective>1983-08-27</effective>
   </meta>
   <container id="PREAMBLE">
+    <heading>PREAMBLE</heading>
     <text>We, the people of the Chickasaw Nation, acknowledging with gratitude the grace and beneficence of God, in permitting us to make choice of our own form of government, do, in accordance with the first, second, fourth and seventh articles of the Treaty between the United States, the Choctaws and Chickasaws, made and concluded at Washington City, June 22, A.D. 1855, and the Treaty of April 28, A.D. 1866, ordain and establish this Constitution for our government, within the following limits, to-wit:</text>
     <text>Beginning on the north bank of Red River, at the mouth of Island Bayou, where it empties into Red River, about twenty-six miles on a straight line below the mouth of False Washita, thence running a northwesterly course along the main channel of said bayou to the junction of the three prongs of said bayou nearest the dividing ridge between Washita and Low Blue Rivers, as laid down on Captain R.L. Hunter's map; thence northerly along the eastern prong of said Island Bayou to its source; thence due north to the Canadian River; thence west along the main Canadian to the ninetyeight degree of west longitude; thence south to Red River and thence down Red River to the beginning;</text>
     <text>Provided; however, if a line running due north from the eastern source of Island Bayou to the main Canadian, shall not include Allen's or Wapanucka Academy within the Chickasaw District, then an off-set shall be made from said line, so as to leave said academy two miles within the Chickasaw District, north, west and south from the lines of boundary.</text>
@@ -96,11 +97,9 @@
       <text>The Tribal Legislature shall consist of thirteen (13) members to be elected from the following districts according to an apportionment plan prescribed by the Tribal Legislature: Panola, Pickens, Tishomingo, Pontotoc.  The district boundaries are as follows:</text>
       <text><u>Panola District</u> - Commencing at the mouth of Island Bayou, on the north bank of Red River, thence up said bayou to the line between the Chickasaws and Choctaws, thence along said line to Blue River, then up Blue River to the road that leads from Fort Washita to Fort Smith, where it crosses Blue River at Andrew Colbert's, thence along said road to</text>
       <text>Hatsborough, thence along the road that leads from Hatsborough to Tiner's, where it crosses Washita River, thence down said river to where it empties into Red River, thence down said river to the beginning point.</text>
-      <text><u>Pickens District</u> - Commencing on the north bank of Red River, at the mouth of Washita River, thence up Red River to the 98th.</text>
-      <text>Meridian Line, thence north along said line to where it crosses Washita, down Washita to the beginning point.</text>
+      <text><u>Pickens District</u> - Commencing on the north bank of Red River, at the mouth of Washita River, thence up Red River to the 98th. Meridian Line, thence north along said line to where it crosses Washita, down Washita to the beginning point.</text>
       <text><u>Tishomingo District</u> - Commencing where the road crosses Blue River that leads from Fort Washita to Fort Smith, at Andrew Colbert's, thence up Blue River to the fork above the old Dragoon crossing, thence up the eastern prong to the road which leads from Fort Arbuckle to Fort Smith, thence along said road to the crossing of the Washita River, thence down said river to the line of the Panola District, thence along said line to the beginning point.</text>
-      <text><u>Pontotoc District</u> - Commencing on the east bank of Blue River, where the line crosses which runs between the Chickasaws and Choctaws, thence along said line to the</text>
-      <text>Canadian River, thence up said river to the 98th. Meridian Line, thence south along said line to Washita River, thence down said river to the line of the Tishomingo District, thence along said line to the line of the Panola District, thence down said line to the beginning point.</text>
+      <text><u>Pontotoc District</u> - Commencing on the east bank of Blue River, where the line crosses which runs between the Chickasaws and Choctaws, thence along said line to the Canadian River, thence up said river to the 98th. Meridian Line, thence south along said line to Washita River, thence down said river to the line of the Tishomingo District, thence along said line to the line of the Panola District, thence down said line to the beginning point.</text>
     </section>
     <section>
       <num>4</num>
@@ -108,8 +107,7 @@
     </section>
     <section>
       <num>5</num>
-      <text>Within nine (9) months following the first 	election 	of 	officials 	under 	this</text>
-      <text>Constitution, the Tribal Legislature shall adopt a plan for reapportionment based on the number of registered voters of the four (4) districts, including those nonresidents who affiliate with each district.  Apportionment based on the number of registered voters shall be used until such time a more reliable means can be established pursuant to legislative action.</text>
+      <text>Within nine (9) months following the first election of officials under this Constitution, the Tribal Legislature shall adopt a plan for reapportionment based on the number of registered voters of the four (4) districts, including those nonresidents who affiliate with each district. Apportionment based on the number of registered voters shall be used until such time a more reliable means can be established pursuant to legislative action.</text>
     </section>
     <section>
       <num>6</num>
@@ -125,8 +123,7 @@
     <heading>PRIVILEGES, DUTIES AND POWERS OF LEGISLATIVE DEPARTMENT</heading>
     <section>
       <num>1</num>
-      <text>The Tribal Legislature, at its first regular session each year, shall organize and elect officers from its membership.  Officers to be elected are a Chairperson and a Secretary.  A Recording Secretary and Sergeant-At-Arms (non-members of the Tribal Legislature) shall be nominated by the Chairperson, and placed in office by and with the advice and consent of the Tribal</text>
-      <text>Legislature.</text>
+      <text>The Tribal Legislature, at its first regular session each year, shall organize and elect officers from its membership.  Officers to be elected are a Chairperson and a Secretary.  A Recording Secretary and Sergeant-At-Arms (non-members of the Tribal Legislature) shall be nominated by the Chairperson, and placed in office by and with the advice and consent of the Tribal Legislature.</text>
     </section>
     <section>
       <num>2</num>
@@ -134,7 +131,7 @@
     </section>
     <section>
       <num>3</num>
-      <text>The Secretary of the Tribal Legislature shall maintain all records and enactments of the Tribal Legislature.  They shall be kept on file in the Chickasaw Nation Headquarters, Ada, Oklahoma and available for inspection by Chickasaw citizens during normal office hours.  All such records and enactments of the Tribal Legislature shall be the property of the Chickasaw Nation.</text>
+      <text>The Secretary of the Tribal Legislature shall maintain all records and enactments of the Tribal Legislature. They shall be kept on file in the Chickasaw Nation Headquarters, Ada, Oklahoma and available for inspection by Chickasaw citizens during normal office hours.  All such records and enactments of the Tribal Legislature shall be the property of the Chickasaw Nation.</text>
     </section>
     <section>
       <num>4</num>
@@ -246,8 +243,7 @@
     <heading>EXECUTIVE DEPARTMENT</heading>
     <section>
       <num>1</num>
-      <text>The Supreme Executive power of this Nation shall be vested in a Chief Magistrate, who shall be styled "The Governor of the</text>
-      <text>Chickasaw Nation."</text>
+      <text>The Supreme Executive power of this Nation shall be vested in a Chief Magistrate, who shall be styled "The Governor of the Chickasaw Nation."</text>
     </section>
     <section>
       <num>2</num>
@@ -304,8 +300,7 @@
     <heading>JUDICIAL DEPARTMENT</heading>
     <section>
       <num>1</num>
-      <text>The 	Judicial 	authority 	of 	the</text>
-      <text>Chickasaw Nation shall consist of a three (3) member court elected by popular vote by qualified voters of the Chickasaw Nation.</text>
+      <text>The Judicial authority of the Chickasaw Nation shall consist of a three (3) member court elected by popular vote by qualified voters of the Chickasaw Nation.</text>
     </section>
     <section>
       <num>2</num>
@@ -343,12 +338,11 @@
     </section>
     <section>
       <num>2</num>
-      <text>Rules of procedure for the Judicial Department shall be prescribed by the Judicial Department within sixty (60) days of its members taking office and shall insure that the citizen receives due process of law and a prompt and speedy trial.  Those procedures shall be presented to the Legislature which must act on those procedures within sixty (60) days after such presentation, otherwise, those procedures will become effective.</text>
+      <text>Rules of procedure for the Judicial Department shall be prescribed by the Judicial Department within sixty (60) days of its members taking office and shall insure that the citizen receives due process of law and a prompt and speedy trial. Those procedures shall be presented to the Legislature which must act on those procedures within sixty (60) days after such presentation, otherwise, those procedures will become effective.</text>
     </section>
     <section>
       <num>3</num>
-      <text>The 	decisions 	of 	the 	Judicial</text>
-      <text>Department shall be final.</text>
+      <text>The decisions of the Judicial Department shall be final.</text>
     </section>
     <section>
       <num>4</num>
@@ -461,7 +455,7 @@
     <num>XVII</num>
     <heading>OATH OF OFFICE</heading>
     <text>All elected or appointed officials shall take the following oath:</text>
-    <text>I,                             , do solemnly swear (or affirm) that I will support, obey and defend <cite>the Constitution</cite>s of the Chickasaw Nation, and the United States of America and will discharge the duties of my office with fidelity, so help me God.</text>
+    <text>I, _____________________, do solemnly swear (or affirm) that I will support, obey and defend <cite>the Constitution</cite>s of the Chickasaw Nation, and the United States of America and will discharge the duties of my office with fidelity, so help me God.</text>
   </container>
   <container>
     <prefix>ARTICLE</prefix>
@@ -499,29 +493,27 @@
     <num>XX</num>
     <heading>APPROVAL</heading>
     <text>I, John W. Fritz, Deputy Assistant Secretary - Indian Affairs (Operations) by virtue of the authority delegated to me by 209 D.M. 8.3, do hereby approve this Constitution of the Chickasaw Nation of Oklahoma.  It shall become effective upon ratification; provided, that nothing in this approval shall be construed as authorizing any action under this document that would be contrary to Federal Law.</text>
-    <text class="center">John W. Fritz</text>
-    <text>Deputy Assistant Secretary Indian Affairs (Operations) Washington, D.C.</text>
-    <text class="center">Date: July 15, 1983</text>
+    <table type="layout-table">
+      <tbody>
+        <tr>
+          <td/>
+          <td>John W. Fritz<br/>Deputy Assistant Secretary Indian Affairs (Operations) Washington, D.C.<br/>Date: July 15, 1983</td>
+        </tr>
+      </tbody>
+    </table>
   </container>
   <container>
     <prefix>ARTICLE</prefix>
     <num>XXI</num>
     <heading>CERTIFICATE OF RATIFICATION</heading>
     <text>Pursuant to the June 17, 1981, order of the U.S. District Court for the District of Columbia, as amended January 6, 1983, in <u>Cravatt v. Watt</u>, Civil No. 77-1664, the Deputy Assistant Secretary - Indian Affairs (Operations), on July 15, 1983, approved this Constitution and authorized the calling of an election for its ratification to be conducted on August 27, 1983.  On August 27, 1983, the qualified voters of the Chickasaw Nation duly ratified this Constitution by a vote of 1,595 for, and 232 against.  The results are hereby certified by members of the Chickasaw Election Commission shown below:</text>
-    <text>Fred L. Ragsdale, Jr.</text>
-    <text>Arbitrator/Administrator</text>
-    <text>Charles Guy Tate</text>
-    <text>Representative for Plaintiffs</text>
-    <text>Sally Bell</text>
-    <text>Representative for Plaintiffs</text>
-    <text>Clarence Lee Cravatt</text>
-    <text>Representative for Plaintiffs</text>
-    <text>Pat Woods</text>
-    <text>Representative for Tribal Defendant</text>
-    <text>Ted Key</text>
-    <text>Representative for Tribal Defendant</text>
-    <text>Kenneth Meeler</text>
-    <text>Representative for Tribal Defendant</text>
+    <text>Fred L. Ragsdale, Jr.<br/>Arbitrator/Administrator</text>
+    <text>Charles Guy Tate<br/>Representative for Plaintiffs</text>
+    <text>Sally Bell<br/>Representative for Plaintiffs</text>
+    <text>Clarence Lee Cravatt<br/>Representative for Plaintiffs</text>
+    <text>Pat Woods<br/>Representative for Tribal Defendant</text>
+    <text>Ted Key<br/>Representative for Tribal Defendant</text>
+    <text>Kenneth Meeler<br/>Representative for Tribal Defendant</text>
     <text>Ardmore, Oklahoma</text>
     <text>Date: August 27, 1983</text>
   </container>
@@ -535,8 +527,7 @@
       <text><cite path="XII|§2">Article XII, Judicial Department, Section 2</cite>, is amended to read:</text>
       <section name="I-2">
         <num>2</num>
-        <text>Members of the Judicial Department must be registered to vote and must have been residents of the Chickasaw Nation for at least one (1) year immediately preceding any election for which they are candidates and must remain residents of the Chickasaw</text>
-        <text>Nation during the tenure of their office.</text>
+        <text>Members of the Judicial Department must be registered to vote and must have been residents of the Chickasaw Nation for at least one (1) year immediately preceding any election for which they are candidates and must remain residents of the Chickasaw Nation during the tenure of their office.</text>
       </section>
     </container>
     <container>
@@ -553,8 +544,7 @@
       <prefix>AMENDMENT</prefix>
       <num>III</num>
       <heading>(September 21, 1987)</heading>
-      <text>The purpose of <cite path="amendments|III">Amendment III</cite> was to identify a specific date for newly elected officials to begin terms of office.  The Amendment was proposed to clarify and specify that date in <cite path="VI">Article VI</cite> - Legislative</text>
-      <text>Department; <cite path="X">Article X</cite> - Executive Department and <cite path="XII">Article XII</cite> - Judicial Department.</text>
+      <text>The purpose of <cite path="amendments|III">Amendment III</cite> was to identify a specific date for newly elected officials to begin terms of office.  The Amendment was proposed to clarify and specify that date in <cite path="VI">Article VI</cite> - Legislative Department; <cite path="X">Article X</cite> - Executive Department and <cite path="XII">Article XII</cite> - Judicial Department.</text>
       <section name="III-1">
         <num>1</num>
         <text>All elected officials of the Chickasaw Nation shall began serving their terms of office on October 1 of the year in which they are elected.  This shall apply to all persons elected to tribal office, beginning with any and all officers which might be elected during the elections of 1988.  This will allow a three-year period during which all tribal judges and members of the legislature will be installed into or go out of office on October 1.  By the 1991 gubernatorial elections, all elected officials shall have terms beginning on October 1.</text>
@@ -568,7 +558,7 @@
       <prefix>AMENDMENT</prefix>
       <num>IV</num>
       <heading>(September 27, 1990)</heading>
-      <text class="center"><cite path="VII">Article VII</cite> is amended to read:</text>
+      <text><cite path="VII">Article VII</cite> is amended to read:</text>
       <section name="IV-11">
         <num>11</num>
         <text>The tribal legislature shall have the power to fix and prescribe salaries and allowances for all elected or appointed officials and employees of the Nation.  The tribal legislature shall review said salaries and allowances every fourth year and shall increase or decrease as necessary.  The tribal legislature will set a pay scale for all tribal employees.</text>
