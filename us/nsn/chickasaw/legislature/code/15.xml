@@ -49,7 +49,24 @@
       <num>D</num>
       <heading>LAND ACQUISITION AND RIGHTS OF WAY</heading>
       <reason>Reserved</reason>
-      <annotation type="Editor's Notes">See also Title 18, Real and Personal Property (Eminent Domain)</annotation>
+      <annotations>
+        <annotation type="Editor's Notes">See also Title 18, Real and Personal Property (Eminent Domain)</annotation>
+      </annotations>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>E</num>
+      <heading>EASEMENTS, LICENSES AND FRANCHISES</heading>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation type="Editor's Notes">See also Title 19, Utilities</annotation>
+      </annotations>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>F</num>
+      <heading>TRUST LANDS</heading>
+      <reason>Reserved</reason>
     </container>
   </container>
   <container>

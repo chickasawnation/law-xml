@@ -727,8 +727,10 @@
       <prefix>Section</prefix>
       <num>8-400.18</num>
       <heading>CERTIFICATION OF ELECTION RETURNS.</heading>
-      <text>The Election Secretary/Tribal Registrar shall declare the unofficial preliminary election results on the last Tuesday of July of the year of the election. The Election Secretary/Tribal Registrar shall certify results only when the recount period has expired. A copy of the certified results shall be posted at the headquarters and a copy mailed to the United States Bureau of Indian Affairs.(PR20-006; 3/25/03; PR21-014. 2/27/04;</text>
+      <text>The Election Secretary/Tribal Registrar shall declare the unofficial preliminary election results on the last Tuesday of July of the year of the election. The Election Secretary/Tribal Registrar shall certify results only when the recount period has expired. A copy of the certified results shall be posted at the headquarters and a copy mailed to the United States Bureau of Indian Affairs.</text>
       <annotations>
+        <annotation type="History" effective="2003-03-25" doc="PR20-006">PR20-006, 3/25/03</annotation>
+        <annotation type="History" effective="2004-02-27" doc="PR21-014">PR21-014, 2/27/04</annotation>
         <annotation type="History" effective="2009-03-20" doc="PR26-004">PR26-004, 3/20/09</annotation>
       </annotations>
     </section>
