@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <heading>Law Library</heading>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" ns0:url="/">
+  <heading>Chickasaw Nation Law Library</heading>
   <meta>
-    <description></description>
+    <description/>
     <contact>
       <email>help@openlawlib.org</email>
     </contact>
@@ -10,7 +10,59 @@
       <xml-bulk>https://github.com/chickasawnation/law-xml</xml-bulk>
       <html-bulk>https://github.com/chickasawnation/law-html</html-bulk>
       <static-assets>https://github.com/chickasawnation/law-static-assets</static-assets>
-      <html></html>
+      <html/>
     </canonical-urls>
+    <history-start>2026-01-01</history-start>
   </meta>
+  <xi:include href="./us/nsn/chickasaw/legislature/constitution/index.xml"/>
+  <xi:include href="./us/nsn/chickasaw/legislature/code/index.xml"/>
+  <collection name="us/nsn/chickasaw/legislature/resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR43/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR42/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR41/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR40/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR39/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR38/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR37/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR36/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR35/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR34/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR33/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR32/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR31/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR30/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR29/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR28/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR27/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR26/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR25/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR24/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR23/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR22/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR21/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR20/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR19/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR18/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR17/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR16/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR15/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR14/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR13/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR12/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR11/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR10/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR9/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR8/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/PR7/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/GR/index.xml"/>
+    <xi:include href="./us/nsn/chickasaw/legislature/resolutions/TL/index.xml"/>
+    <annotations>
+      <annotation type="Editor's Notes">
+        <text>
+          <em>Any incomplete or unavailable historical source record is an archival matter and does not impair the validity of the codified law.</em>
+        </text>
+      </annotation>
+    </annotations>
+  </collection>
 </library>
